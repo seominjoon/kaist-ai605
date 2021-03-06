@@ -1,3 +1,7 @@
+---
+permalink: /zoom/
+---
+
 ## Zoom Invitation
 
 Minjoon Seo is inviting you to a scheduled Zoom meeting.
