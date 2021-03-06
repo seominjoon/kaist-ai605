@@ -41,13 +41,9 @@ Office Hours: Wed 4-5pm via [https://calendly.com/seominjoon/students](https://c
 
     Office Hours: Mon 10:30-11:30am via email
 
-- Deunsol Yoon (Daejeon)
+- Seokin Seo (Daejeon)
 
-    [solpino@kaist.ac.kr](mailto:solpino@kaist.ac.kr)
-
-    Office: KAIST Main Campus E3-1 3427
-
-    Office Hours: Mon 4-5pm via email
+    [tzs930@kaist.ac.kr](mailto:tzs930@kaist.ac.kr)
 
 - Taehyung Kwon (Daejeon)
 
