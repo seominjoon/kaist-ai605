@@ -2,7 +2,7 @@
 
 Monday, Wednesday 2:30pm-4:00pm
 
-[Zoom Ivitation](https://seominjoon.github.io/kaist-ai605/zoom.html)
+[Zoom Invitation](https://seominjoon.github.io/kaist-ai605/zoom.html)
 
 ## Instructor
 
