@@ -10,7 +10,7 @@
 
 ## Time & Location
 
-Monday, Wednesday 2:30pm-4:00pm via [Zoom](https://seominjoon.github.io/kaist-ai605/zoom.html)
+Monday, Wednesday 2:30pm-4:00pm via Zoom (visit KLMS or email Minjoon for the invitation)
 
 
 ## Instructor
