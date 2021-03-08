@@ -1,7 +1,7 @@
 | Lecture Number | Date      | Lecture Slides                                  | Assignment Announced | Assignment Due | Supplementary Materials |
 |----------------|-----------|-------------------------------------------------|---------------------|----------------|-------------------------|
-|              1 |  3/3/2021 | [Intro to NLP, Deep Learning Basics][l00] |                     |                |                         |
-|              2 |  3/8/2021 | Deep Learning Basics (2), Tokenization, Text Classification |                     |                |                         |
+|              1 |  3/3/2021 | [Intro to NLP, Deep Learning Basics][l00] |                     |                ||
+|              2 |  3/8/2021 | Deep Learning Basics (2), Tokenization, Text Classification |                     | | [Mikolov et al. (2014)][word2vec]                       |
 |              3 | 3/10/2021 | Recurrent Neural Networks, Sequence Tagging (Question Answering) | Coding 1                    |                |                         |
 |              4 | 3/15/2021 | Sequence Generation (Machine Translation, Summarization) |                     |                |                         |
 |              5 | 3/17/2021 | Encoder-Decoder, Attention |                     |                |                         |
@@ -31,3 +31,4 @@
 |             27 |  6/9/2021 | FInal project presentation                      |                     |                |                         |
 
 [l00]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
+[word2vec]: https://arxiv.org/abs/1301.3781
