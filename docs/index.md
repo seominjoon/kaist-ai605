@@ -1,11 +1,15 @@
 # KAIST AI605 Spring 2021 - Deep Learning for NLP
 
-## Links
-
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
 - [Lecture Videos](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwzQmCiQySb5C5Rk6QTDmu3)
 - Q&A via [GitHub Discussions](https://github.com/seominjoon/kaist-ai605/discussions)
 
+## NLP Classes in Other Institutions
+- [University of Washington CSE517 (Winter 2021)](https://docs.google.com/document/d/1gBz2w79DBrGjNGq2TMqJBDIWzUGsQacWFAszZKz6OKI/edit)
+- [Stanford University CS224n (Winter 2021)](http://web.stanford.edu/class/cs224n/)
+- [UC Berkeley CS288 (Spring 2020)](https://cal-cs288.github.io/sp20/)
+- [University of North Carolina COMP786 (Fall 2020)](https://www.cs.unc.edu/~mbansal/teaching/nlp-comp786-fall20.html)
+- [Carneige Mellon University CS11-747 (Spring 2021)](http://phontron.com/class/nn4nlp2021/schedule.html)
 
 ## Time & Location
 
