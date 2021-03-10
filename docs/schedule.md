@@ -2,8 +2,8 @@
 |----------------|-----------|-------------------------------------------------|---------------------|----------------|-------------------------|
 |              1 |  3/3/2021 | [Intro to NLP, Deep Learning Basics][l01] |                     |                ||
 |              2 |  3/8/2021 | [Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification][l02] |                     | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
-|              3 | 3/10/2021 | Recurrent Neural Networks, Sequence Tagging (Question Answering) | Coding 1                    |                |                         |
-|              4 | 3/15/2021 | Sequence Generation (Machine Translation, Summarization) |                     |                |                         |
+|              3 | 3/10/2021 | [Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks][l03] | Coding 1                    |                |                         |
+|              4 | 3/15/2021 | Question Answering, Sequence Generation (Machine Translation, Summarization) |                     |                |                         |
 |              5 | 3/17/2021 | Encoder-Decoder, Attention |                     |                |                         |
 |              6 | 3/22/2021 | Attention, Transformer (1) |                     |                |                         |
 |              7 | 3/24/2021 | Transformer (2) |                     |                |                         |
@@ -32,5 +32,6 @@
 
 [l01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [l02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
+[l03]: https://drive.google.com/file/d/1eKMxk6hv7HSzlMOWSp_lUa3Qsy8pMcZ8/view?usp=sharing
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
