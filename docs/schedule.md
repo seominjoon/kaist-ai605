@@ -4,11 +4,11 @@
 |              2 |  3/8/2021 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]] |                     | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
 |              3 | 3/10/2021 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]] |                     |                |                         |
 |              4 | 3/15/2021 | Training, LSTM [[slides][s04]] |                    |                | |
-|              5 | 3/17/2021 | Jupyter Notebook, Token Classification, NER, MRC, Attention [[slides][s05]] |  Coding 1                    |                |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
+|              5 | 3/17/2021 | Jupyter Notebook, Token Classification, NER, MRC, Attention [[slides][s05]] |  [Assignment 1][a1]                    |                |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |              6 | 3/22/2021 | Sequence Generation (Machine Translation, Summarization), Encoder-Decoder, Transformer (1) |                     |                |                         |
 |              7 | 3/24/2021 | Transformer (2) |                     |                |                         |
 |              8 | 3/29/2021 | NLP Paper writing | |    |                         |
-|              9 | 3/31/2021 | Transformer (3), Byte Pair Encoding (BPE) |  Writing 1                    | Coding 1               |                         |
+|              9 | 3/31/2021 | Transformer (3), Byte Pair Encoding (BPE) |  Assignment 2                    | Assignment 1               |                         |
 |             10 |  4/5/2021 | Language Model |                     |                |                         |
 |             11 |  4/7/2021 | Masked Language Model |                     |                |                         |
 |             12 | 4/12/2021 | Paper analysis presentation |                     |                |                         |
@@ -35,6 +35,7 @@
 [s03]: https://drive.google.com/file/d/1eKMxk6hv7HSzlMOWSp_lUa3Qsy8pMcZ8/view?usp=sharing
 [s04]: https://drive.google.com/file/d/1KaCsDCNnrN9z8CxQlQ_XuKyDI-i9g2Rg/view?usp=sharing
 [s05]: https://drive.google.com/file/d/1rANZenSNZSgBs0-9mTNRv1ASlnM4ltHv/view?usp=sharing
+[a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
 [cs224n-07]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture07-fancy-rnn.pdf
