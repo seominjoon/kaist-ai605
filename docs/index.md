@@ -88,7 +88,7 @@ The final project is creating an open-domain question answering system on Effici
 
 ## Textbook
 
-There is no textbook for this course.
+There is no required textbook for this course but I highly recommend [Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/), whose pdf version is available for free, for your reference.
 
 ## Weekly Schedule
 
@@ -108,9 +108,10 @@ There is no textbook for this course.
 14. Final project presentation (Project due)
 
 
-## NLP Classes in Other Institutions
+## Recommended References
 - [University of Washington CSE517 (Winter 2021)](https://docs.google.com/document/d/1gBz2w79DBrGjNGq2TMqJBDIWzUGsQacWFAszZKz6OKI/edit)
 - [Stanford University CS224n (Winter 2021)](http://web.stanford.edu/class/cs224n/)
 - [UC Berkeley CS288 (Spring 2020)](https://cal-cs288.github.io/sp20/)
 - [University of North Carolina COMP786 (Fall 2020)](https://www.cs.unc.edu/~mbansal/teaching/nlp-comp786-fall20.html)
 - [Carneige Mellon University CS11-747 (Spring 2021)](http://phontron.com/class/nn4nlp2021/schedule.html)
+- [Speech & Language Processing (Textbook)](https://web.stanford.edu/~jurafsky/slp3/)
