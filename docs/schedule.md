@@ -5,7 +5,7 @@
 |             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
 |             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | |
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
-|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention |                                     |                         |
+|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     |                         |
 |             07 | 3/24 | Encoder Attention, Transformer |                     |                                         |
 |             08 | 3/29 | Transformer (2) | |                             |
 |             09 | 3/31 | Teacher Forcing, Beam Search, Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
@@ -35,6 +35,7 @@
 [s03]: https://drive.google.com/file/d/1eKMxk6hv7HSzlMOWSp_lUa3Qsy8pMcZ8/view?usp=sharing
 [s04]: https://drive.google.com/file/d/1KaCsDCNnrN9z8CxQlQ_XuKyDI-i9g2Rg/view?usp=sharing
 [s05]: https://drive.google.com/file/d/1rANZenSNZSgBs0-9mTNRv1ASlnM4ltHv/view?usp=sharing
+[s06]: https://drive.google.com/file/d/1XOv_rHZsxGbCdo-gRummQhOJm0nfITl1/view?usp=sharing
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
