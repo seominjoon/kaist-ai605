@@ -3,7 +3,7 @@
 |             01 |  3/3 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  3/8 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
 |             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
-|             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | |
+|             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | [LSTM][lstm] |
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [Cho et al. (2014)][seq2seq], [Bahdanau et al. (2015)][att]                         |
 |             07 | 3/24 | Encoder Attention, Transformer |                     |                                         |
@@ -41,4 +41,5 @@
 [mnist]: http://yann.lecun.com/exdb/mnist/
 [cs224n-07]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture07-fancy-rnn.pdf
 [seq2seq]: https://arxiv.org/abs/1406.1078
+[lstm]: https://www.bioinf.jku.at/publications/older/2604.pdf
 [att]: https://arxiv.org/abs/1409.0473
