@@ -5,7 +5,7 @@
 |             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
 |             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | |
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
-|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     |                         |
+|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [Cho et al. (2014)][seq2seq], [Bahdanau et al. (2015)][att]                         |
 |             07 | 3/24 | Encoder Attention, Transformer |                     |                                         |
 |             08 | 3/29 | Transformer (2) | |                             |
 |             09 | 3/31 | Teacher Forcing, Beam Search, Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
@@ -40,3 +40,5 @@
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
 [cs224n-07]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture07-fancy-rnn.pdf
+[seq2seq]: https://arxiv.org/abs/1406.1078
+[att]: https://arxiv.org/abs/1409.0473
