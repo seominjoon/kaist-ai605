@@ -1,14 +1,14 @@
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
-|              1 |  3/3/2021 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
-|              2 |  3/8/2021 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
-|              3 | 3/10/2021 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
-|              4 | 3/15/2021 | Training, LSTM [[slides][s04]] |                                    | |
-|              5 | 3/17/2021 | Jupyter Notebook, Token Classification, NER, MRC, Attention [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
-|              6 | 3/22/2021 | Sequence Generation (Machine Translation, Summarization), Encoder-Decoder, Transformer (1) |                                     |                         |
-|              7 | 3/24/2021 | Transformer (2) |                     |                                         |
-|              8 | 3/29/2021 | NLP Paper writing | |                             |
-|              9 | 3/31/2021 | Transformer (3), Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
+|             01 |  3/3/2021 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
+|             02 |  3/8/2021 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
+|             03 | 3/10/2021 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
+|             04 | 3/15/2021 | Training, LSTM [[slides][s04]] |                                    | |
+|             05 | 3/17/2021 | Jupyter Notebook, Token Classification, NER, MRC, Attention [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
+|             06 | 3/22/2021 | Sequence Generation (Machine Translation, Summarization), Encoder-Decoder, Transformer (1) |                                     |                         |
+|             07 | 3/24/2021 | Transformer (2) |                     |                                         |
+|             08 | 3/29/2021 | NLP Paper writing | |                             |
+|             09 | 3/31/2021 | Transformer (3), Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
 |             10 |  4/5/2021 | Language Model |                                     |                         |
 |             11 |  4/7/2021 | Masked Language Model |                                     |                         |
 |             12 | 4/12/2021 | Paper analysis presentation |                                     |                         |
