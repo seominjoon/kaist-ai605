@@ -54,16 +54,17 @@ Office Hours: Wed 4-5pm via [https://calendly.com/seominjoon/students](https://c
     Office Hours: Tue 2-3pm via email
 
 ## Grading Policy
+There is no exam in this class, and the grade will depend on the following criteria:
+- Coding assignments: 45% (3 assignments x 15%)
+- Writing assignment: 15% (1 assignment x 15%)
+- Final project: 30%
+- Participation (discussions): 10%
 
-Coding assignments: 30% (2 assignments x 15%)
-
-Writing assignments: 20% (2 assignments x 10%)
-
-Final project: 40%
-
-Participation (discussions): 10%
-
-There is no exam in this class.
+The final grade will be determined by the following policy:
+- 90% or higher: 4.0-4.3 (only few students will get 4.3)
+- 80% to 89%: 3.0-3.9
+- 70% to 79%: 2.0-2.9
+- 69% or lower: 0.0-1.9 (fail) 
 
 ## Course Description
 
