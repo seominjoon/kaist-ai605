@@ -1,13 +1,15 @@
+# Schedule & Materials
+
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  3/3 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
-|             02 |  3/8 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [Mikolov et al. (2014)][word2vec]                       |
+|             02 |  3/8 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
 |             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
 |             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | [LSTM][lstm] |
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
-|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [Cho et al. (2014)][seq2seq], [Bahdanau et al. (2015)][att]                         |
-|             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     |                                         |
-|             08 | 3/29 | Transformer (2) | |                             |
+|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
+|             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
+|             08 | 3/29 | Transformer | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
 |             09 | 3/31 | Teacher Forcing, Beam Search, Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
 |             10 |  4/5 | NLP Paper analysis |                                     |                         |
 |             11 |  4/7 | NLP Paper discussions |                                     |                         |
@@ -38,9 +40,16 @@
 [s06]: https://drive.google.com/file/d/1XOv_rHZsxGbCdo-gRummQhOJm0nfITl1/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1TNog2BnX8hJ1FoY1pHQ_MaLOyG1FkfUv/view?usp=sharing
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
+
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
 [cs224n-07]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture07-fancy-rnn.pdf
 [seq2seq]: https://arxiv.org/abs/1406.1078
 [lstm]: https://www.bioinf.jku.at/publications/older/2604.pdf
 [att]: https://arxiv.org/abs/1409.0473
+[att-luong]: https://arxiv.org/abs/1508.04025
+[teaching]: https://arxiv.org/abs/1506.03340
+[matchlstm]: https://arxiv.org/abs/1608.07905
+[bidaf]: https://arxiv.org/abs/1611.01603
+[transformer]: https://arxiv.org/abs/1706.03762
+[annotated]: https://nlp.seas.harvard.edu/2018/04/03/attention.html
