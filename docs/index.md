@@ -1,4 +1,4 @@
-# Deep Learning for NLP
+# KAIST AI605 - Deep Learning for NLP (Spring 2021)
 
 ## Links
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
