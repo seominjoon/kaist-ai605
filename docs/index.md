@@ -1,3 +1,5 @@
+# Deep Learning for NLP
+
 ## Links
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
 - [Lecture Videos](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwzQmCiQySb5C5Rk6QTDmu3)
