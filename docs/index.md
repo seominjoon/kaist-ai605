@@ -93,19 +93,19 @@ There is no required textbook for this course but I highly recommend [Speech & L
 
 ## Weekly Schedule (tentative)
 1. Introduction to NLP and and Review of Deep Learning
-2. Recurrent Neural Networks, Text Classification, Sequence Tagging (Coding 1 is out)
-3. Encoder-Decoder, Sequence Generation
-4. Transformer  (Coding 1 is due)
-5. NLP paper writing (Writing 1 is out)
-6. Language Model
-7. Paper analysis presentation (Writing 1 is due)
-8. Pretrained Language Model & Finetuing (Coding 2 is out)
-9. NLP Tools 
-10. Intro to the final project (Open-domain QA)  (Coding 2 is due)
-11. Large Language Model (Writing 2 is out)
-12. Generalization & In-context Learning 
-13. Paper writing presentation (Writing 2 is due) 
-14. Final project presentation (Project due)
+2. Recurrent Neural Networks, Text Classification
+3. Token Classification
+4. Encoder-Decoder, Sequence Generation
+5. Transformer
+6. NLP paper writing
+7. Language Model
+8. Paper analysis presentation
+9. Pretrained Language Model & Finetuning
+10. NLP Tools 
+11. Intro to the final project (Open-domain QA)
+12. Large Language Model
+13. Generalization & In-context Learning  
+15. Final project presentation
 
 
 ## Recommended References
