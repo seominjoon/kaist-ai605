@@ -61,10 +61,10 @@ There is no exam in this class, and the grade will depend on the following crite
 - Participation (discussions): 10%
 
 The final grade will be determined by the following policy:
-- 90% or higher: 4.0-4.3 (only few students will get 4.3)
-- 80% to 89%: 3.0-3.9
-- 70% to 79%: 2.0-2.9
-- 69% or lower: 0.0-1.9 (fail) 
+- 90% or higher: 4.0 or 4.3 (only few students will get 4.3)
+- 80% to 89%: 3.0, 3.3, or 3.7
+- 70% to 79%: 2.0, 2.3, or 2.7
+- 69% or lower: 1.7 or lower (fail) 
 
 ## Course Description
 
