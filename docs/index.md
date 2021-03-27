@@ -61,7 +61,7 @@ There is no exam in this class, and the grade will depend on the following crite
 - Participation (discussions): 10%
 
 The final grade will be determined by the following policy:
-- 90% or higher: A or A+ (only few students will get 4.3)
+- 90% or higher: A or A+ (only few students will get A+)
 - 80% to 89%: B, B+, or A-
 - 70% to 79%: C, C+, or B-
 - 69% or lower: C- or lower (fail) 
