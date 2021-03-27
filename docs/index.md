@@ -79,11 +79,11 @@ This course covers recent advances in natural language processing area driven by
 - Zero-shot Learning (e.g. GPT-3)
 - NLP Tools (e.g. Hugging Face)
 
-There are four assignments: 2 coding and 2 writing.
+There are four assignments: 3 coding and 1 writing.
 
-There will be two coding assignments that involve training deep learning models for text classification (sentiment analysis) and summarization (text generation), respectively. In the first assignment, you will be asked to use PyTorch library only. In the second assignment, you will use a popular NLP tool, Hugging Face, to complete the assignment. 
+There will be three coding assignments that involve training deep learning models for text classification (sentiment classification), token classification (machine reading comprehension), and text generation (machine translation). In the first two assignments, you will be asked to use PyTorch library only. In the third assignment, you will use a popular NLP tool, Hugging Face, to complete the assignment. 
 
-In this class, you will also learn how to write an NLP paper by analyzing the structure of recent papers published in NLP conferences (ACL, EMNLP, NAACL). The first writing assignment will be finding and analyzing frequent argument patterns, and the second writing assignment will be writing a sample research paper that adopts an interesting pattern you found (with dummy experiments).
+In this class, you will also learn how to write an NLP paper by analyzing the structure of recent papers published in NLP (ACL, EMNLP, NAACL) and machine learning (NeurIPS, ICLR, ICML) conferences. We will have in-class discussion where you will analyze frequent argument patterns in these papers, and the assignment will be writing a sample research paper that adopts an interesting pattern you found (with dummy experiments).
 
 The final project is creating an open-domain question answering system on EfficientQA dataset. The final deliverable will be a report. However, if you are working on an NLP-related research project, you are welcome to work on it instead (but please consult with me first). 
 
@@ -91,8 +91,7 @@ The final project is creating an open-domain question answering system on Effici
 
 There is no required textbook for this course but I highly recommend [Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/), whose pdf version is available for free, for your reference.
 
-## Weekly Schedule
-
+## Weekly Schedule (tentative)
 1. Introduction to NLP and and Review of Deep Learning
 2. Recurrent Neural Networks, Text Classification, Sequence Tagging (Coding 1 is out)
 3. Encoder-Decoder, Sequence Generation
