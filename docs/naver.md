@@ -4,7 +4,7 @@ Among the 4 assignments and 1 final project, you will need to complete either:
 - 3 assignments of your choice and *no* final project, or 
 - 1 assignment of your choice and the final project.
 
-You will not graded upon participation (though you are welcome to join discussions). 
+You will not be graded upon participation (though you are welcome to join discussions). 
 You will be graded with the same standard as the regular students, 
 and your final score need to be higher than 70% (equivalent to Grade C or Grade Point 2.0) to *pass* the class.
 
