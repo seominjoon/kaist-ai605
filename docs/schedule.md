@@ -9,20 +9,20 @@
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
 |             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
-|             08 | 3/29 | Transformer | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
-|             09 | 3/31 | Teacher Forcing, Beam Search, Byte Pair Encoding (BPE) |  Assignment 1 is due, Assignment 2 is up               |                         |
-|             10 |  4/5 | NLP Paper analysis |                                     |                         |
-|             11 |  4/7 | NLP Paper discussions |                                     |                         |
-|             12 | 4/12 | Language Model |                                     |                         |
-|             13 | 4/14 | Neural Language Model | Assignment 2 is due, Assignment 3 is up                            |                         |
-|             14 | 4/19 | Masked Language Model |                                     |                         |
+|             08 | 3/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
+|             09 | 3/31 | Annotated Transformer, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE)  |  Assignment 1 is due, Assignment 2 is up               |                         |
+|             10 |  4/5 | Language Model |                                     |                         |
+|             11 |  4/7 | Grammar, Syntactic Parsing, Semantic Parsing |                                     |                         |
+|             12 | 4/12 | Retrieval, Multimodal Learning, Dialog |                                     |                         |
+|             13 | 4/14 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up                            |                         |
+|             14 | 4/19 | NLP paper discussions |                                     |                         |
 |             15 | 4/21 | Pretrained Language Model (1) |                                     |                         |
 |             16 | 4/26 | Pretrained Language Model (2) |                                     |                         |
-|             17 | 4/28 | NLP Tools | Assignment 3 is due, Assignment 4 is up |                            |
+|             17 | 4/28 | Pretrained LM Tools | Assignment 3 is due, Assignment 4 is up |                            |
 |             18 |  5/3 | Assignment 3 presentation |                     |                                         |
 |                |  5/5 | No lecture (어린이날)                           |                                     |                         |
-|             19 | 5/10 | Intro to the Final Project (Open-domain QA) |                     |                                        |
-|             20 | 5/12 | Intro to the Final Project (Open-domain QA) (2) |                                     |                         |
+|             19 | 5/10 | Open-domain QA |                     |                                        |
+|             20 | 5/12 | Final Project Tutorial |                                     |                         |
 |             21 | 5/17 | (spare) | Assignment 4 is due |                |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             22 | 5/24 | Large Language Model (1) |                     |                                       |
@@ -39,6 +39,7 @@
 [s05]: https://drive.google.com/file/d/1rANZenSNZSgBs0-9mTNRv1ASlnM4ltHv/view?usp=sharing
 [s06]: https://drive.google.com/file/d/1XOv_rHZsxGbCdo-gRummQhOJm0nfITl1/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1TNog2BnX8hJ1FoY1pHQ_MaLOyG1FkfUv/view?usp=sharing
+[s08]: https://drive.google.com/file/d/1_cPZ04tJzB67oMm2QA6soiI1QNv6oRSs/view?usp=sharing
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
