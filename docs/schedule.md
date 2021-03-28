@@ -5,7 +5,7 @@
 |             01 |  3/3 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  3/8 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
 |             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
-|             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | [LSTM][lstm] |
+|             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | [[Hochreiter & Schmidhuber, 1997]][lstm] |
 |             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
 |             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
