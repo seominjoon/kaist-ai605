@@ -66,6 +66,9 @@ The final grade will be determined by the following policy:
 - 70% to 79%: C, C+, or B-
 - 69% or lower: C- or lower (fail) 
 
+## Late Submission Policy
+There will be -10% penalty for every late day (24 hours). That is, if the assignment or the project is due at 11pm and you submit at 11:30pm on the next day, 20% will be deducted. Note that I will be giving bonus questions for coding assignments, so you can still achieve 100% (or higher) with a late assignment. An assignment that is more than 7 days late will not be accepted and you will receive 0% for that assignment.
+
 ## Course Description
 
 This course covers recent advances in natural language processing area driven by deep learning. Topics include (but are not limited to)
