@@ -11,7 +11,7 @@
 |             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
 |             08 | 3/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
 |             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
-|             10 |  4/5 | , Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model |  [Assignment][a2] 2 is up    |                         |
+|             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model |  [Assignment 2][a2] is up    |                         |
 |             11 |  4/7 | Grammar, Syntactic Parsing, Semantic Parsing |                                     |                         |
 |             12 | 4/12 | Retrieval, Multimodal Learning, Dialog |                                     |                         |
 |             13 | 4/14 | NLP paper analysis |                             |                         |
