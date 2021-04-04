@@ -10,12 +10,12 @@
 |             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
 |             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
 |             08 | 3/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
-|             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due, Assignment 2 is up               | [Annotated Transformer][annotated]                   |
-|             10 |  4/5 | , Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model |                                     |                         |
+|             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
+|             10 |  4/5 | , Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model |  [Assignment][a2] 2 is up    |                         |
 |             11 |  4/7 | Grammar, Syntactic Parsing, Semantic Parsing |                                     |                         |
 |             12 | 4/12 | Retrieval, Multimodal Learning, Dialog |                                     |                         |
-|             13 | 4/14 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up                            |                         |
-|             14 | 4/19 | NLP paper discussions |                                     |                         |
+|             13 | 4/14 | NLP paper analysis |                             |                         |
+|             14 | 4/19 | NLP paper discussions | Assignment 2 is due, Assignment 3 is up  |                         |
 |             15 | 4/21 | Pretrained Language Model (1) |                                     |                         |
 |             16 | 4/26 | Pretrained Language Model (2) |                                     |                         |
 |             17 | 4/28 | Pretrained LM Tools | Assignment 3 is due, Assignment 4 is up |                            |
@@ -42,6 +42,7 @@
 [s08]: https://drive.google.com/file/d/1_cPZ04tJzB67oMm2QA6soiI1QNv6oRSs/view?usp=sharing
 [s09]: https://drive.google.com/file/d/1iIBkBIlyO8wyHYsKUYcZwAd8hNFu6Yjl/view?usp=sharing
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
+[a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
