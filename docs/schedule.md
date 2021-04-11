@@ -15,22 +15,22 @@
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
 |             12 | 4/12 | Syntactic Parsing, Semantic Parsing |                                     |                         |
 |             13 | 4/14 | Retrieval, Multimodal Learning, Dialog |                             |                         |
-|             14 | 4/19 | NLP paper analysis | Assignment 2 is due  |                         |
-|             15 | 4/21 | NLP paper discussions | Assignment 3 is up |                         |
+|             14 | 4/19 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up  |                         |
+|             15 | 4/21 | NLP paper discussions |  |                         |
 |             16 | 4/26 | Pretrained Language Model (1) |                                     |                         |
-|             17 | 4/28 | Pretrained Language Model (2) |  |                            |
-|             18 |  5/3 | Pretrained LM Tools |                     |                                         |
+|             17 | 4/28 | Pretrained LM Tools |  |                            |
+|             18 |  5/3 | Assignment 3 presentations | Assignment 3 is due, Assignment 4 is up                    |                                         |
 |                |  5/5 | No lecture (어린이날)                           |                                     |                         |
-|             19 | 5/10 | Assignment 3 presentations | Assignment 3 due, Assignment 4 is up  |                                        |
+|             19 | 5/10 | Pretrained Language Model (2) |   |                                        |
 |             20 | 5/12 | Open-domain QA |                                     |                         |
-|             21 | 5/17 | Final Project Tutorial | Assignment 4 is due |                |                      
+|             21 | 5/17 | Final Project Tutorial | Assignment 4 is due  | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             22 | 5/24 | Large Language Model (1) |                     |                                       |
+|             22 | 5/24 | Large Language Model (1) |  |                                       |
 |             23 | 5/26 | Large Language Model (2) |                     |                                        |
 |             24 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             25 |  6/2 | Recent trend in NLP                                                                   |                |                         |
 |             26 |  6/7 | Final project presentation                      |                                    |                         |
-|             27 |  6/9 | FInal project presentation                      |                                   |                         |
+|             27 |  6/9 | Final project presentation                      |                                   |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
