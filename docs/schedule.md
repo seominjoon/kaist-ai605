@@ -13,17 +13,17 @@
 |             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
 |             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
-|             12 | 4/12 | Semantic Parsing, Retrieval, Multimodal Learning, Dialog |                                     |                         |
-|             13 | 4/14 | NLP paper analysis |                             |                         |
-|             14 | 4/19 | NLP paper discussions | Assignment 2 is due, Assignment 3 is up  |                         |
-|             15 | 4/21 | Pretrained Language Model (1) |                                     |                         |
-|             16 | 4/26 | Pretrained Language Model (2) |                                     |                         |
-|             17 | 4/28 | Pretrained LM Tools | Assignment 3 is due, Assignment 4 is up |                            |
-|             18 |  5/3 | Assignment 3 presentation |                     |                                         |
+|             12 | 4/12 | Syntactic Parsing, Semantic Parsing |                                     |                         |
+|             13 | 4/14 | Retrieval, Multimodal Learning, Dialog |                             |                         |
+|             14 | 4/19 | NLP paper analysis | Assignment 2 is due  |                         |
+|             15 | 4/21 | NLP paper discussions | Assignment 3 is up |                         |
+|             16 | 4/26 | Pretrained Language Model (1) |                                     |                         |
+|             17 | 4/28 | Pretrained Language Model (2) |  |                            |
+|             18 |  5/3 | Pretrained LM Tools |                     |                                         |
 |                |  5/5 | No lecture (어린이날)                           |                                     |                         |
-|             19 | 5/10 | Open-domain QA |                     |                                        |
-|             20 | 5/12 | Final Project Tutorial |                                     |                         |
-|             21 | 5/17 | (spare) | Assignment 4 is due |                |                      
+|             19 | 5/10 | Assignment 3 presentations | Assignment 3 due, Assignment 4 is up  |                                        |
+|             20 | 5/12 | Open-domain QA |                                     |                         |
+|             21 | 5/17 | Final Project Tutorial | Assignment 4 is due |                |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             22 | 5/24 | Large Language Model (1) |                     |                                       |
 |             23 | 5/26 | Large Language Model (2) |                     |                                        |
