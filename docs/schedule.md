@@ -13,7 +13,7 @@
 |             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
 |             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
-|             12 | 4/12 | Syntactic Parsing, Semantic Parsing |                                     |                         |
+|             12 | 4/12 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
 |             13 | 4/14 | Retrieval, Multimodal Learning, Dialog |                             |                         |
 |             14 | 4/19 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up  |                         |
 |             15 | 4/21 | NLP paper discussions |  |                         |
@@ -43,6 +43,7 @@
 [s09]: https://drive.google.com/file/d/1iIBkBIlyO8wyHYsKUYcZwAd8hNFu6Yjl/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1_GojPXerbuPzmELcMtzLO-ttwRgB8PFD/view?usp=sharing
 [s11]: https://drive.google.com/file/d/12pOBHmevCbS4cmXK50FD0LeB-HUfN6Js/view?usp=sharing
+[s12]: https://drive.google.com/file/d/1R0t0PMOLmYPv2GvQCob5yUN7HXkF76A5/view?usp=sharing
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 
@@ -61,3 +62,4 @@
 [layernorm]: https://arxiv.org/abs/1607.06450
 [batchnorm]: https://arxiv.org/abs/1502.03167
 [syntactic]: https://www.cs.unc.edu/~mbansal/teaching/slidesFall20/nlp_comp786_fall2020_lec4_sep2.pdf
+[wikisql]: https://arxiv.org/abs/1709.00103
