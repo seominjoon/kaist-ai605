@@ -14,23 +14,23 @@
 |             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
 |             12 | 4/12 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
-|             13 | 4/14 | Retrieval, Multimodal Learning, Dialog |                             |                         |
-|             14 | 4/19 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up  |                         |
-|             15 | 4/21 | NLP paper discussions |  |                         |
-|             16 | 4/26 | Pretrained Language Model (1) |                                     |                         |
-|             17 | 4/28 | Pretrained LM Tools |  |                            |
-|             18 |  5/3 | Assignment 3 presentations | Assignment 3 is due, Assignment 4 is up                    |                                         |
+|              | 4/14 | ~~Retrieval, Multimodal Learning, Dialog~~ Class canceled |                             |                         |
+|             13 | 4/19 | NLP paper analysis | Assignment 2 is due, Assignment 3 is up  |                         |
+|             14 | 4/21 | NLP paper discussions |  |                         |
+|             15 | 4/26 | Pretrained Language Model (1) |                                     |                         |
+|             16 | 4/28 | Pretrained LM Tools |  |                            |
+|             17 |  5/3 | Assignment 3 presentations | Assignment 3 is due, Assignment 4 is up                    |                                         |
 |                |  5/5 | No lecture (어린이날)                           |                                     |                         |
-|             19 | 5/10 | Pretrained Language Model (2) |   |                                        |
-|             20 | 5/12 | Open-domain QA |                                     |                         |
-|             21 | 5/17 | Final Project Tutorial | Assignment 4 is due  | |                      
+|             18 | 5/10 | Pretrained Language Model (2) |   |                                        |
+|             19 | 5/12 | Open-domain QA |                                     |                         |
+|             20 | 5/17 | Final Project Tutorial | Assignment 4 is due  | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             22 | 5/24 | Large Language Model (1) |  |                                       |
-|             23 | 5/26 | Large Language Model (2) |                     |                                        |
-|             24 | 5/31 | Generalization and In-context Learning     |                                   |                         |
-|             25 |  6/2 | Recent trend in NLP                                                                   |                |                         |
-|             26 |  6/7 | Final project presentation                      |                                    |                         |
-|             27 |  6/9 | Final project presentation                      |                                   |                         |
+|             21 | 5/24 | Large Language Model (1) |  |                                       |
+|             22 | 5/26 | Large Language Model (2) |                     |                                        |
+|             23 | 5/31 | Generalization and In-context Learning     |                                   |                         |
+|             24 |  6/2 | Recent trend in NLP                                                                   |                |                         |
+|             25 |  6/7 | Final project presentation                      |                                    |                         |
+|             26 |  6/9 | Final project presentation                      |                                   |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
