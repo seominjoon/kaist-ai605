@@ -14,9 +14,9 @@
 |             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
 |             12 | 4/12 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
-|              | 4/14 | Class canceled |                             |                         |
-|              | 4/19 | No class (midterm week) |Assignment 2 is due   |                         |
-|              | 4/21 | No class (midterm week) |  |                         |
+|              | 4/14 | No lecture (Minjoon can't make it) |                             |                         |
+|              | 4/19 | No lecture (midterm week) |Assignment 2 is due   |                         |
+|              | 4/21 | No lecture (midterm week) |  |                         |
 |             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides]][s13] |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper discussions |  |                            |
 |             15 |  5/3 | Pretrained Language Model | Assignment 3 is due, Assignment 4 is up                    |                                         |
@@ -29,8 +29,8 @@
 |             20 | 5/26 | Large Language Model (2) |                     |                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
-|              |  6/7 | Final project presentation (time TBA)                      |                                    |                         |
-|              |  6/9 | Final project presentation (time TBA)                      |                                    |                         |
+|              |  6/7 | Final project presentation                      |                                    |                         |
+|              |  6/9 | Final project presentation                      |                                    |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
