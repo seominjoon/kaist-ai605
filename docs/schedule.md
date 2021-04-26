@@ -17,7 +17,7 @@
 |              | 4/14 | Class canceled |                             |                         |
 |              | 4/19 | No class (midterm week) |Assignment 2 is due   |                         |
 |              | 4/21 | No class (midterm week) |  |                         |
-|             13 | 4/26 | NLP paper analysis |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
+|             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides]][s13] |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper discussions |  |                            |
 |             15 |  5/3 | Pretrained Language Model | Assignment 3 is due, Assignment 4 is up                    |                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
@@ -44,6 +44,8 @@
 [s10]: https://drive.google.com/file/d/1_GojPXerbuPzmELcMtzLO-ttwRgB8PFD/view?usp=sharing
 [s11]: https://drive.google.com/file/d/12pOBHmevCbS4cmXK50FD0LeB-HUfN6Js/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1R0t0PMOLmYPv2GvQCob5yUN7HXkF76A5/view?usp=sharing
+[s13]: https://drive.google.com/file/d/1sFfLPIxIsz59pACfxRuwBZz75Qam-S42/view?usp=sharing
+
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 
