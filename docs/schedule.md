@@ -31,7 +31,8 @@
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
 |              |  6/7 | Final project presentation                      |                                    |                         |
 |              |  6/9 | Final project presentation                      |                                    |                         |
-|              |  6/18 |                       |  Final Project Report is due                                  |                         |
+|              |  6/16 | No lecture (finals week)                      |                                    |                         |
+|              |  6/16 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
