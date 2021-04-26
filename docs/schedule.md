@@ -17,7 +17,7 @@
 |              | 4/14 | Class canceled |                             |                         |
 |              | 4/19 | No class (midterm week) |Assignment 2 is due   |                         |
 |              | 4/21 | No class (midterm week) |  |                         |
-|             13 | 4/26 | NLP paper analysis |  Assignment 3 is up                                   |                         |
+|             13 | 4/26 | NLP paper analysis |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper discussions |  |                            |
 |             15 |  5/3 | Pretrained Language Model | Assignment 3 is due, Assignment 4 is up                    |                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
@@ -63,3 +63,5 @@
 [batchnorm]: https://arxiv.org/abs/1502.03167
 [syntactic]: https://www.cs.unc.edu/~mbansal/teaching/slidesFall20/nlp_comp786_fall2020_lec4_sep2.pdf
 [wikisql]: https://arxiv.org/abs/1709.00103
+[thorough]: https://arxiv.org/abs/1606.02858
+[squad]: https://arxiv.org/abs/1606.05250
