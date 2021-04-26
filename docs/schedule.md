@@ -18,19 +18,20 @@
 |              | 4/19 | No lecture (midterm week) |Assignment 2 is due   |                         |
 |              | 4/21 | No lecture (midterm week) |  |                         |
 |             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides]][s13] |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
-|             14 | 4/28 | NLP paper discussions |  |                            |
-|             15 |  5/3 | Pretrained Language Model | Assignment 3 is due, Assignment 4 is up                    |                                         |
+|             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
+|             15 |  5/3 | Pretrained Language Model |                     |                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
-|             16 | 5/10 | Pretrained LM Tools |   |                                        |
+|             16 | 5/10 | Pretrained LM Tools | Assignment 3 is due, Assignment 4 is up  |                                        |
 |             17 | 5/12 | Open-domain QA |                                     |                         |
-|             18 | 5/17 | Final Project Tutorial | Assignment 4 is due  | |                      
+|             18 | 5/17 | Final Project Tutorial |   | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             19 | 5/24 | Large Language Model (1) |  |                                       |
+|             19 | 5/24 | Large Language Model (1) | Assignment 4 is due |                                       |
 |             20 | 5/26 | Large Language Model (2) |                     |                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
 |              |  6/7 | Final project presentation                      |                                    |                         |
 |              |  6/9 | Final project presentation                      |                                    |                         |
+|              |  6/18 |                       |  Final Project Report is due                                  |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
@@ -45,6 +46,7 @@
 [s11]: https://drive.google.com/file/d/12pOBHmevCbS4cmXK50FD0LeB-HUfN6Js/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1R0t0PMOLmYPv2GvQCob5yUN7HXkF76A5/view?usp=sharing
 [s13]: https://drive.google.com/file/d/1sFfLPIxIsz59pACfxRuwBZz75Qam-S42/view?usp=sharing
+[s14]: https://drive.google.com/file/d/1fW45gUS0K5omc4WfV4hOLjlzclZDqqeO/view?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
