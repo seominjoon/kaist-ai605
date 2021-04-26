@@ -17,7 +17,7 @@
 |              | 4/14 | No lecture (Minjoon can't make it) |                             |                         |
 |              | 4/19 | No lecture (midterm week) |Assignment 2 is due   |                         |
 |              | 4/21 | No lecture (midterm week) |  |                         |
-|             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  Assignment 3 is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
+|             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
 |             15 |  5/3 | Pretrained Language Model |                     |                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
@@ -51,6 +51,7 @@
 
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
+[a3]: https://www.overleaf.com/read/vrpvdhcywbnv
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
