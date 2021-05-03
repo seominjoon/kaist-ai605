@@ -19,9 +19,9 @@
 |              | 4/21 | No lecture (midterm week) |  |                         |
 |             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
-|             15 |  5/3 | Pretrained Language Model |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
+|             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
-|             16 | 5/10 | Pretrained LM Tools [[slides][s15]] | Assignment 3 is due, Assignment 4 is up  |                                        |
+|             16 | 5/10 | Pretrained LM Tools  | Assignment 3 is due, Assignment 4 is up  |                                        |
 |             17 | 5/12 | Open-domain QA |                                     |                         |
 |             18 | 5/17 | Final Project Tutorial |   | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
