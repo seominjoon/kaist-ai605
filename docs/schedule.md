@@ -21,7 +21,7 @@
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
 |             15 |  5/3 | Pretrained Language Model |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
-|             16 | 5/10 | Pretrained LM Tools | Assignment 3 is due, Assignment 4 is up  |                                        |
+|             16 | 5/10 | Pretrained LM Tools [[slides][s15]] | Assignment 3 is due, Assignment 4 is up  |                                        |
 |             17 | 5/12 | Open-domain QA |                                     |                         |
 |             18 | 5/17 | Final Project Tutorial |   | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
@@ -48,6 +48,7 @@
 [s12]: https://drive.google.com/file/d/1R0t0PMOLmYPv2GvQCob5yUN7HXkF76A5/view?usp=sharing
 [s13]: https://drive.google.com/file/d/1sFfLPIxIsz59pACfxRuwBZz75Qam-S42/view?usp=sharing
 [s14]: https://drive.google.com/file/d/1fW45gUS0K5omc4WfV4hOLjlzclZDqqeO/view?usp=sharing
+[s15]: https://drive.google.com/file/d/1YeEHt9TuTZJzHpxJav2NC8xKNo_qLrvh/view?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
