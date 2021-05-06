@@ -21,9 +21,9 @@
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
 |             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
-|             16 | 5/10 | Pretrained LM Tools  | Assignment 3 is due, Assignment 4 is up  |                                        |
-|             17 | 5/12 | Open-domain QA |                                     |                         |
-|             18 | 5/17 | Final Project Tutorial |   | |                      
+|             16 | 5/10 | Pretrained LM and Tools  | Assignment 3 is due, Assignment 4 is up  |                                        |
+|             17 | 5/12 | Pretrained LM Tools |                                     |                         |
+|             18 | 5/17 | Open-domain QA and Final Project Tutorial | Final Project is up  | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Large Language Model (1) | Assignment 4 is due |                                       |
 |             20 | 5/26 | Large Language Model (2) |                     |                                        |
