@@ -22,7 +22,7 @@
 |             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
 |             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
-|             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | Assignment 4 is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
+|             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial | Final Project is up  | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Large Language Model (1) |  |                                       |
@@ -55,6 +55,7 @@
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 [a3]: https://www.overleaf.com/read/vrpvdhcywbnv
+[a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
