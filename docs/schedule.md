@@ -22,11 +22,11 @@
 |             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
 |             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
-|             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | Assignment 4 is up                                    | [`transformers`][transformers]                        |
+|             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | Assignment 4 is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial | Final Project is up  | |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Large Language Model (1) |  |                                       |
-|             20 | 5/26 | Large Language Model (2) | Assignment 4 is due                    |                                        |
+|             20 | 5/26 | Large Language Model (2) | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
 |             23 |  6/7 | Final project presentation                      |                                    |                         |
