@@ -23,7 +23,7 @@
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
 |             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
-|             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | Final Project is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
+|             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Large Language Model (1) |  |                                       |
 |             20 | 5/26 | Large Language Model (2) | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
@@ -57,6 +57,7 @@
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 [a3]: https://www.overleaf.com/read/vrpvdhcywbnv
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
+[final]: https://drive.google.com/file/d/1ARYetuQsPot3PhzsqT0wny4WZyJNDySi/view?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
