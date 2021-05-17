@@ -23,7 +23,7 @@
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
 |             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
-|             18 | 5/17 | Open-domain QA and Final Project Tutorial | Final Project is up  | |                      
+|             18 | 5/17 | Open-domain QA and Final Project Tutorial | Final Project is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Large Language Model (1) |  |                                       |
 |             20 | 5/26 | Large Language Model (2) | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
@@ -79,3 +79,5 @@
 [gpt]: https://openai.com/blog/language-unsupervised/
 [bert]: https://arxiv.org/abs/1810.04805
 [transformers]: https://huggingface.co/transformers/
+[drqa]: https://arxiv.org/abs/1704.00051
+[dpr]: https://arxiv.org/abs/2004.04906
