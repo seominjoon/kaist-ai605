@@ -55,8 +55,7 @@ Office Hours: Wed 4-5pm via [https://calendly.com/seominjoon/students](https://c
 
 ## Grading Policy
 There is no exam in this class, and the grade will depend on the following criteria:
-- Coding assignments: 45% (3 assignments x 15%)
-- Writing assignment: 15% (1 assignment x 15%)
+- Assignments: 60% (4 assignments altogether but the lowest score is dropped)
 - Final project: 30%
 - Participation (discussions): 10%
 
@@ -67,7 +66,9 @@ The final grade will be determined by the following policy:
 - 69% or lower: C- or lower (fail) 
 
 ### Late Submission Policy
-There will be -10% penalty for every late day (24 hours). That is, if the assignment or the project is due at 11pm and you submit at 11:30pm on the next day, 20% will be deducted. Note that I will be giving bonus questions for coding assignments, so you can still achieve 100% (or higher) with a late assignment. An assignment that is more than 7 days late will not be accepted and you will receive 0% for that assignment.
+- We will give you 7 no-penalty late days that can be used across all assignments (but not the final project).
+- After you used all late penalty days, there will be -10% penalty for every late day (24 hours). That is, if the assignment or the project is due at 11pm and you submit at 11:30pm on the next day, 20% will be deducted. Note that I will be giving bonus questions for coding assignments, so you can still achieve 100% (or higher) with a late assignment. An assignment that is more than 7 days late will not be accepted and you will receive 0% for that assignment.
+
 
 ## Course Description
 
