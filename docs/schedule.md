@@ -25,7 +25,7 @@
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             19 | 5/24 | Nearest Neighbor Search, Large Language Models |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Liu et al., 2019]][roberta], [[Lewis et al., 2019]][bart], [[Yang et al., 2019]][xlnet]|
+|             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Liu et al., 2019]][roberta], [[Lewis et al., 2019]][bart], [[Yang et al., 2019]][xlnet]|
 |             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
@@ -52,6 +52,7 @@
 [s16]: https://drive.google.com/file/d/14yBYoyIfiLgfgcq6oE2ZhPfAe-u1df1b/view?usp=sharing
 [s17]: https://drive.google.com/file/d/11F3jIcHsvyRb_7z1KpQN1RubowNiDYu-/view?usp=sharing
 [s18]: https://drive.google.com/file/d/1VlNmxw9gdJ3FrbuMPBHtssz8Fml8bArS/view?usp=sharing
+[s19]: https://drive.google.com/file/d/1lj58BULPV0SZUZBXkPdOYAIK_sL3vi0i/view?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
