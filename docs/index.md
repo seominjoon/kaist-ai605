@@ -8,7 +8,7 @@
 
 ## Time & Location
 
-Monday, Wednesday 2:30pm-4:00pm via Zoom (visit KLMS or email the instructor for the invitation)
+Monday, Wednesday 2:30pm-3:50pm via Zoom (visit KLMS or email the instructor for the invitation)
 
 
 ## Instructor
