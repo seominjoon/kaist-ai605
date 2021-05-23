@@ -21,7 +21,7 @@ Monday, Wednesday 2:30pm-4:00pm via Zoom (visit KLMS or email the instructor for
 
 Office: KAIST Seoul Campus Building 9 Room 9202
 
-Office Hours: Wed 4-5pm via [https://calendly.com/seominjoon/students](https://calendly.com/seominjoon/students)
+Office Hours: Wed 4-5pm via email
 
 ## TAs
 
