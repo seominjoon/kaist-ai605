@@ -25,7 +25,7 @@
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             19 | 5/24 | Nearest Neighbor Search, Large Language Models |  | [[Malkov & Yashunin, 2016]][hnsw], [[Liu et al., 2019]][roberta], [[Lewis et al., 2019]][bart], [[Yang et al., 2019]][xlnet]|
+|             19 | 5/24 | Nearest Neighbor Search, Large Language Models |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Liu et al., 2019]][roberta], [[Lewis et al., 2019]][bart], [[Yang et al., 2019]][xlnet]|
 |             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
@@ -87,3 +87,4 @@
 [roberta]: https://arxiv.org/abs/1907.11692
 [bart]: https://arxiv.org/abs/1910.13461
 [xlnet]: https://arxiv.org/abs/1906.08237
+[faiss]: https://github.com/facebookresearch/faiss
