@@ -26,7 +26,7 @@
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
-|             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
+|             20 | 5/26 | Large Language Models [[slides][s20]] | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
 |             21 | 5/31 | Generalization and In-context Learning     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
 |             22 |  6/2 | Recent Trend in NLP                                                                   |                |                         |
 |             23 |  6/7 | Final project presentation                      |                                    |                         |
@@ -53,6 +53,7 @@
 [s17]: https://drive.google.com/file/d/11F3jIcHsvyRb_7z1KpQN1RubowNiDYu-/view?usp=sharing
 [s18]: https://drive.google.com/file/d/1VlNmxw9gdJ3FrbuMPBHtssz8Fml8bArS/view?usp=sharing
 [s19]: https://drive.google.com/file/d/1lj58BULPV0SZUZBXkPdOYAIK_sL3vi0i/view?usp=sharing
+[s20]: https://drive.google.com/file/d/17SUpIjpDX_if3rW3YZUGmUs_jk2__xRW/view?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1SrYqfgY7mFqolA6_fpH6nkCzUOTanmsA?usp=sharing
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
