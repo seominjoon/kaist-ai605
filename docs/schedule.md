@@ -25,8 +25,8 @@
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
 |             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Liu et al., 2019]][roberta], [[Lewis et al., 2019]][bart], [[Yang et al., 2019]][xlnet]|
-|             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    |                                        |
+|             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
+|             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Fan et al., 2020]][m2m-100], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2]                                        |
 |             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
 |             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
 |             23 |  6/7 | Final project presentation                      |                                    |                         |
@@ -89,3 +89,10 @@
 [bart]: https://arxiv.org/abs/1910.13461
 [xlnet]: https://arxiv.org/abs/1906.08237
 [faiss]: https://github.com/facebookresearch/faiss
+[gpt-2]: https://openai.com/blog/better-language-models/
+[albert]: https://arxiv.org/abs/1909.11942
+[electra]: https://arxiv.org/abs/2003.10555
+[t5]: https://arxiv.org/abs/1910.10683
+[layoutlm]: https://arxiv.org/abs/1912.13318
+[m2m-100]: https://arxiv.org/abs/2010.11125
+[mobilebert]: https://arxiv.org/abs/2004.02984
