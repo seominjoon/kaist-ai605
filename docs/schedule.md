@@ -27,8 +27,8 @@
 |                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
 |             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
 |             20 | 5/26 | Large Language Models | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Fan et al., 2020]][m2m-100], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2]                                        |
-|             21 | 5/31 | Generalization and In-context Learning     |                                   |                         |
-|             22 |  6/2 | Other topics in NLP                                                                   |                |                         |
+|             21 | 5/31 | Generalization and In-context Learning     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
+|             22 |  6/2 | Recent Trend in NLP                                                                   |                |                         |
 |             23 |  6/7 | Final project presentation                      |                                    |                         |
 |            24 |  6/9 | Final project presentation                      |                                    |                         |
 |              |  6/14 | No lecture (finals week)                      |                                    |                         |
@@ -96,3 +96,6 @@
 [layoutlm]: https://arxiv.org/abs/1912.13318
 [m2m-100]: https://arxiv.org/abs/2010.11125
 [mobilebert]: https://arxiv.org/abs/2004.02984
+[scaling]: https://arxiv.org/abs/2001.08361
+[gpt-3]: https://arxiv.org/abs/2005.14165
+
