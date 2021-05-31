@@ -29,8 +29,8 @@
 |             20 | 5/26 | Large Language Models [[slides][s20]] | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
 |             21 | 5/31 | In-context Learning, Recent Trend in NLP     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 |              |  6/2 | No lecture (work on your final project!)       |                |                         |
-|             23 |  6/7 | Final project presentation                      |                                    |                         |
-|            24 |  6/9 | Final project presentation                      |                                    |                         |
+|             22 |  6/7 | Final project presentation                      |                                    |                         |
+|            23 |  6/9 | Final project presentation                      |                                    |                         |
 |              |  6/14 | No lecture (finals week)                      |                                    |                         |
 |              |  6/16 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
 
