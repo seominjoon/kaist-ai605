@@ -10,12 +10,12 @@
 |             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
 |             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
 |             08 | 3/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
-|             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due [[rubric][a1r]]               | [Annotated Transformer][annotated]                   |
+|             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
 |             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
 |             12 | 4/12 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
 |              | 4/14 | No lecture (Minjoon can't make it) |                             |                         |
-|              | 4/19 | No lecture (midterm week) |Assignment 2 is due [[rubric][a2r]]   |                         |
+|              | 4/19 | No lecture (midterm week) |Assignment 2 is due   |                         |
 |              | 4/21 | No lecture (midterm week) |  |                         |
 |             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
@@ -61,9 +61,6 @@
 [a3]: https://www.overleaf.com/read/vrpvdhcywbnv
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
 [final]: https://drive.google.com/file/d/1ARYetuQsPot3PhzsqT0wny4WZyJNDySi/view?usp=sharing
-[a1r]: https://drive.google.com/file/d/1-BbDIloIEtal95PsE3UUz-Q7gQx6Hy_r/view?usp=sharing
-[a2r]: https://drive.google.com/file/d/1gkCT9AQIXt3JZuu6K2HCjhRSMLhPo7US/view?usp=sharing
-[a4r]: 
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
