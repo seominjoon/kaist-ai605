@@ -19,7 +19,7 @@
 |              | 4/21 | No lecture (midterm week) |  |                         |
 |             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
-|             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2017]][elmo], [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
+|             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |                |  5/5 | No lecture (어린이날)  |                                     |                         |
 |             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
 |             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
@@ -103,3 +103,4 @@
 [cbqa]: https://arxiv.org/abs/2002.08910
 [bros]: https://openreview.net/forum?id=punMXQEsPr0
 [dall-e]: https://arxiv.org/abs/2102.12092
+[ulmfit]: https://arxiv.org/abs/1801.06146
