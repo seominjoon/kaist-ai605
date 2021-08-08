@@ -1,73 +1,60 @@
-# KAIST AI605 - Deep Learning for NLP (Spring 2021)
+# KAIST AI605 - Deep Learning for NLP (Fall 2021)
 
 ## Links
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
-- [Lecture Videos](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwzQmCiQySb5C5Rk6QTDmu3)
 - Q&A via [GitHub Discussions](https://github.com/seominjoon/kaist-ai605/discussions)
-- [Instructions for NAVER Students](https://seominjoon.github.io/kaist-ai605/naver.html)
+- [KAIST AI605 - Spring 2021](https://seominjoon.github.io/kaist-ai605/index-202103.html)
 
 ## Time & Location
 
-Monday, Wednesday 2:30pm-3:50pm via Zoom (visit KLMS or email the instructor for the invitation)
+Mon & Wed 4-5:20pm via Zoom 
+- visit KLMS or email a TA (or the instructor) for the invitation
+- The class will be fully virtual
+- All lectures and materials will be in English
+
 
 
 ## Instructor
 
 **Minjoon Seo**
 
-[minjoon@kaist.ac.kr](mailto:minjoon@kaist.ac.kr)
+- [minjoon@kaist.ac.kr](mailto:minjoon@kaist.ac.kr)
 
-[https://seominjoon.github.io](https://seominjoon.github.io/)
+- [https://seominjoon.github.io](https://seominjoon.github.io/)
 
-Office: KAIST Seoul Campus Building 9 Room 9202
+- Office: KAIST Seoul Campus Building 9 Room 202
 
-Office Hours: Wed 4-5pm via email
+- Office Hours: TBA
 
 ## TAs
-
-- Miyoung Ko (Seoul)
-
-    [miyoungko@kaist.ac.kr](mailto:miyoungko@kaist.ac.kr) 
-
-    Office: KAIST Seoul Campus Building 9 
-
-    Office Hours: Thu 10:30-11:30am via email
-
-- Hyeong-Gwon Hong (Daejeon)
-
-    [honggudrnjs@kaist.ac.kr](mailto:honggudrnjs@kaist.ac.kr)
-
-    Office: KAIST Main Campus N1 Room 214
-
-    Office Hours: Mon 10:30-11:30am via email
-
-- Seokin Seo (Daejeon)
-
-    [tzs930@kaist.ac.kr](mailto:tzs930@kaist.ac.kr)
-
-- Taehyung Kwon (Daejeon)
-
-    [taehyung.kwon@kaist.ac.kr](mailto:taehyng.kwon@kaist.ac.kr)
-
-    Office: KAIST Main Campus N26 Room 110
-
-    Office Hours: Tue 2-3pm via email
+TBA
 
 ## Grading Policy
-There is no exam in this class, and the grade will depend on the following criteria:
-- Assignments: 60% (4 assignments altogether but the lowest score is dropped)
-- Final project: 30%
-- Participation (discussions): 10%
+There is no exam in this class, and the final grade has the following breakdown:
+- Assignments: 80% or 40% 
+- Project: 0% or 40%
+- Participation: 20%
 
-The final grade will be determined by the following policy:
-- 90% or higher: A or A+ (only few students will get A+)
-- 80% to 89%: B, B+, or A-
-- 70% to 79%: C, C+, or B-
-- 69% or lower: C- or lower (fail) 
+Note that you can choose either 
+(1) complete all the four assignments, or 
+(2) complete two assignments of your choice and complete the project (recommended if you are already working on an NLP project).
+If you complete all of the four assignments and the project, we will choose the option that gives you a higher grade.
+
+The final grade will be determined by the following policy (after rounding to the nearest integer in percent):
+- 93% or higher: A0 or A+ (only few students will get A+)
+- 90% to 92%: A-
+- 87% to 89%: B+
+- 83% to 86%: B0
+- 80% to 82%: B-
+- 77% to 79%: C+
+- 73% to 76%: C0
+- 72% or lower: C- or lower (fail) 
 
 ### Late Submission Policy
 - We will give you 7 no-penalty late days that can be used across all assignments (but not the final project).
-- After you used all late penalty days, there will be -10% penalty for every late day (24 hours). That is, if the assignment or the project is due at 11pm and you submit at 11:30pm on the next day, 20% will be deducted. Note that I will be giving bonus questions for coding assignments, so you can still achieve 100% (or higher) with a late assignment. An assignment that is more than 7 days late will not be accepted and you will receive 0% for that assignment.
+- After you used all late penalty days, there will be -10% penalty for every late day (24 hours). That is, if the assignment or the project is due at 11pm and you submit at 11:30pm on the next day, 20% will be deducted. 
+- Note that when there are bonus questions, you can still achieve 100% (or higher) with a late assignment. 
+- An assignment that is more than 7 days late will not be accepted and you will receive 0% for that assignment.
 
 
 ## Course Description
@@ -85,13 +72,21 @@ This course covers recent advances in natural language processing area driven by
 - Zero-shot Learning (e.g. GPT-3)
 - NLP Tools (e.g. Hugging Face)
 
-There are four assignments: 3 coding and 1 writing.
 
-There will be three coding assignments that involve training deep learning models for text classification (sentiment classification), token classification (machine reading comprehension), and text generation (machine translation). In the first two assignments, you will be asked to use PyTorch library only. In the third assignment, you will use a popular NLP tool, Hugging Face, to complete the assignment. 
+### Assignments
 
-In this class, you will also learn how to write an NLP paper by analyzing the structure of recent papers published in NLP (ACL, EMNLP, NAACL) and machine learning (NeurIPS, ICLR, ICML) conferences. We will have in-class discussion where you will analyze frequent argument patterns in these papers, and the assignment will be writing a sample research paper that adopts an interesting pattern you found (with dummy experiments).
+- Assignment 1: Using RNNs to create a sequence classifer from scratch
+- Assignment 2: Creating a retrieval system from scratch and using `faiss`
+- Assignment 3: Using BERT to create a sequence classifier and a token classifier (for QA)
+- Assignment 4: Using T5 to create a sequence generation model
 
-The final project is creating an open-domain question answering system on EfficientQA dataset. The final deliverable will be a report. However, if you are working on an NLP-related research project, you are welcome to work on it instead (but please consult with me first). 
+
+
+### Project
+The deliverable for the project will be a 4-to-8-page report. You can choose your own topic for the project, but if you don't have one, 
+we encourage you to work on creating an open-domain question answering system on EfficientQA dataset (detailed description will be available). 
+In this case, we recommend you to complete Assignment 2 and 3.
+
 
 ## Textbook
 

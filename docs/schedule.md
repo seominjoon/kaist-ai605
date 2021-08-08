@@ -2,37 +2,38 @@
 
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
-|             01 |  3/3 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
-|             02 |  3/8 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
-|             03 | 3/10 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
-|             04 | 3/15 | Training, LSTM [[slides][s04]] |                                    | [[Hochreiter & Schmidhuber, 1997]][lstm] |
-|             05 | 3/17 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
-|             06 | 3/22 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
-|             07 | 3/24 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
-|             08 | 3/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
-|             09 | 3/31 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
-|             10 |  4/5 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
-|             11 |  4/7 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
-|             12 | 4/12 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
-|              | 4/14 | No lecture (Minjoon can't make it) |                             |                         |
-|              | 4/19 | No lecture (midterm week) |Assignment 2 is due   |                         |
-|              | 4/21 | No lecture (midterm week) |  |                         |
-|             13 | 4/26 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
-|             14 | 4/28 | NLP paper analysis discussions [[slides][s14]] |  |                            |
-|             15 |  5/3 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
-|                |  5/5 | No lecture (어린이날)  |                                     |                         |
-|             16 | 5/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
-|             17 | 5/12 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up (5/14 Fri)                                    | [`transformers`][transformers]                        |
-|             18 | 5/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
-|                | 5/19 | No lecture (석가탄신일)                         |                                   |                         |
-|             19 | 5/24 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
-|             20 | 5/26 | Large Language Models [[slides][s20]] | Assignment 4 is due (5/28 Fri 11pm)                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
-|             21 | 5/31 | In-context Learning, Recent Trend in NLP [[slides][s21]]     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
-|              |  6/2 | No lecture (work on your final project!)       |                |                         |
-|             22 |  6/7 | Final project presentation                      |                                    |                         |
-|            23 |  6/9 | Final project presentation                      |                                    |                         |
-|              |  6/14 | No lecture (finals week)                      |                                    |                         |
-|              |  6/16 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
+|             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
+|             02 |  9/1 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
+|             03 | 9/6 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
+|             04 | 9/8 | Training, LSTM [[slides][s04]] |                                    | [[Hochreiter & Schmidhuber, 1997]][lstm] |
+|             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
+|             06 | 9/15 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
+|              | 9/20 | No lecture (Chuseok) |                             |                         |
+|              | 9/22 | No lecture (Chuseok) |                             |                         |
+|             07 | 9/27 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
+|             08 | 9/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
+|              | 10/4 | No lecture (National Foundation Day) |                             |                         |
+|             09 | 10/6 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
+|              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
+|             10 |  10/13 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
+|              | 10/18 | No lecture (midterm week) |Assignment 2 is due   |                         |
+|              | 10/20 | No lecture (midterm week) |  |                         |
+|             11 |  10/25 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
+|             12 | 10/27 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
+|             13 | 11/1 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
+|             14 | 11/3 | NLP paper analysis discussions [[slides][s14]] |  |                            |
+|             15 |  11/8 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
+|             16 | 11/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
+|             17 | 11/15 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up                                    | [`transformers`][transformers]                        |
+|             18 | 11/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
+|             19 | 11/22 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
+|             20 | 11/24 | Large Language Models [[slides][s20]] | Assignment 4 is due                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
+|             21 | 11/29 | In-context Learning, Recent Trend in NLP [[slides][s21]]     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
+|              |  12/1 | Spare       |                |                         |
+|             22 |  12/6 | Final project presentation                      |                                    |                         |
+|            23 |  12/8 | Final project presentation                      |                                    |                         |
+|              |  12/13 | No lecture (finals week)                      |                                    |                         |
+|              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
 
 [s01]: https://drive.google.com/file/d/1x5E7gCnYaIkHWsy9rzENnTiXnW0pbNfB/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1Z2jxgwZFLJzehFCGuIvkBMUIQkvgJGvV/view?usp=sharing
