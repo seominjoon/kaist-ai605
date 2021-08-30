@@ -112,7 +112,7 @@ There is no required textbook for this course but I highly recommend [Speech & L
 ## Recommended References
 - [University of Washington CSE517 (Winter 2021)](https://docs.google.com/document/d/1gBz2w79DBrGjNGq2TMqJBDIWzUGsQacWFAszZKz6OKI/edit)
 - [Stanford University CS224n (Winter 2021)](http://web.stanford.edu/class/cs224n/)
-- [UC Berkeley CS288 (Spring 2020)](https://cal-cs288.github.io/sp20/)
+- [UC Berkeley CS288 (Spring 2021)](https://cal-cs288.github.io/sp21/)
 - [University of North Carolina COMP786 (Fall 2020)](https://www.cs.unc.edu/~mbansal/teaching/nlp-comp786-fall20.html)
 - [Carneige Mellon University CS11-747 (Spring 2021)](http://phontron.com/class/nn4nlp2021/schedule.html)
 - [Speech & Language Processing (Textbook)](https://web.stanford.edu/~jurafsky/slp3/)
