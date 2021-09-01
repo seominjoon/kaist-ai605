@@ -2,12 +2,13 @@
 
 ## Links
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
-- Q&A via [GitHub Discussions](https://github.com/seominjoon/kaist-ai605/discussions)
+- [Lecture Videos](https://www.youtube.com/playlist?list=PLN9tAT2r9TDy9tPOfgYm28Wl3D4vYm0Zs) on YouTube
+- [Q&A](https://github.com/seominjoon/kaist-ai605/discussions) on GitHub Discussions
 - [KAIST AI605 - Spring 2021](https://seominjoon.github.io/kaist-ai605/index-202103.html)
 
 ## Time & Location
 
-Mon & Wed 4-5:20pm via Zoom 
+Mon & Wed 16:00-17:15 via Zoom 
 - visit KLMS or email a TA (or the instructor) for the invitation
 - The class will be fully virtual
 - All lectures and materials will be in English
@@ -16,18 +17,27 @@ Mon & Wed 4-5:20pm via Zoom
 
 ## Instructor
 
-**Minjoon Seo**
-
+#### Minjoon Seo
 - [minjoon@kaist.ac.kr](mailto:minjoon@kaist.ac.kr)
 
 - [https://seominjoon.github.io](https://seominjoon.github.io/)
 
 - Office: KAIST Seoul Campus Building 9 Room 202
 
-- Office Hours: TBA
+- Office Hours: MW 17:30-18:00 via email
 
 ## TAs
-TBA
+#### Miyoung Ko
+- [miyoungko@kaist.ac.kr](mailto:miyoungko@kaist.ac.kr)
+
+#### Yongrae Jo
+- [yongrae@kaist.ac.kr](mailto:yongrae@kaist.ac.kr)
+
+#### Minki Kang
+- [zzxc1133@kaist.ac.kr](mailto:zzxc1133@kaist.ac.kr)
+
+#### Jaehyeong Jo
+- [harryjo97@kaist.ac.kr](mailto:harryjo97@kaist.ac.kr)
 
 ## Grading Policy
 There is no exam in this class, and the final grade has the following breakdown:
