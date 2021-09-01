@@ -3,8 +3,8 @@
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
-|             02 |  9/1 | Deep Learning Basics (2), Tokenization, Word Embedding, Text Classification [[slides][s02]]                      | | [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
-|             03 | 9/6 | Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |                         |
+|             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
+|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |  [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
 |             04 | 9/8 | Training, LSTM [[slides][s04]] |                                    | [[Hochreiter & Schmidhuber, 1997]][lstm] |
 |             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 9/15 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
