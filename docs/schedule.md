@@ -7,7 +7,7 @@
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist]                        |
-|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks  |  Assignment 1 is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
+|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks [[slides][s04]] |  Assignment 1 is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
 
 <!--
 |             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
@@ -43,7 +43,7 @@
 [s01]: https://drive.google.com/file/d/1Wc3WWW5c1f0ZhusUAD-VEq2tWbRH7KCA/view?usp=sharing
 [s02]: https://drive.google.com/file/d/11e7fpRWTW089Qvnivkh1fxxBQXxIcbvY/view?usp=sharing
 [s03]: https://drive.google.com/file/d/1hWfX08e7mdjzbPgNn1txtbT3vOBINm6M/view?usp=sharing
-[s04]: https://drive.google.com/file/d/1KaCsDCNnrN9z8CxQlQ_XuKyDI-i9g2Rg/view?usp=sharing
+[s04]: https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view?usp=sharing
 [s05]: https://drive.google.com/file/d/1rANZenSNZSgBs0-9mTNRv1ASlnM4ltHv/view?usp=sharing
 [s06]: https://drive.google.com/file/d/1XOv_rHZsxGbCdo-gRummQhOJm0nfITl1/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1TNog2BnX8hJ1FoY1pHQ_MaLOyG1FkfUv/view?usp=sharing
