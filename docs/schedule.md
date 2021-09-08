@@ -1,26 +1,30 @@
 # Schedule & Materials
 
+*No lecture on 9/20 & 9/22 (Chuseok), 10/4 (National Foundation Day), 10/11 (Hangeul Day), 10/18 & 10/20 (Midterm), and 12/13 & 12/15 (Final).*
+
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
-|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization, Word Embedding, Recurrent Neural Networks [[slides][s03]]                      |                |  [MNIST][mnist], [[Mikolov et al., 2014]][word2vec]                       |
-|             04 | 9/8 | Training, LSTM [[slides][s04]] |                                    | [[Hochreiter & Schmidhuber, 1997]][lstm] |
-|             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |  [Assignment 1][a1] is up                                    |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
+|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist]                        |
+|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks  |  Assignment 1 is up                                   | [[Sennrich et al., 2015]][bpe] |
+
+<!--
+|             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 9/15 | Text Generation (Machine Translation, Summarization), Encoder-Decoder, Decoder Attention [[slides][s06]] |                                     | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]                         |
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
-|             07 | 9/27 | Encoder Attention, Transformer [[slides][s07]] |                     | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
-|             08 | 9/29 | Transformer [[slides][s08]] | | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
+|             07 | 9/27 | Encoder Attention, Transformer [[slides][s07]] |  | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
+|             08 | 9/29 | Transformer [[slides][s08]] | Assignment 1 is due | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
-|             09 | 10/6 | Annotated Transformer [[slides][s09]]  |  Assignment 1 is due               | [Annotated Transformer][annotated]                   |
+|             09 | 10/6 | Annotated Transformer [[slides][s09]]  | Assignment 2 is up | [Annotated Transformer][annotated]                   |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
-|             10 |  10/13 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  [Assignment 2][a2] is up    |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
-|              | 10/18 | No lecture (midterm week) |Assignment 2 is due   |                         |
-|              | 10/20 | No lecture (midterm week) |  |                         |
+|             10 |  10/13 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
+|              | 10/18 | No lecture (midterm week) |   |                         |
+|              | 10/20 | No lecture (midterm week) | Assignment 2 is due |                         |
 |             11 |  10/25 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
-|             12 | 10/27 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |                                     | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
-|             13 | 11/1 | Semantic Parsing, NLP paper analysis [[slides][s13]] |  [Assignment 3][a3] is up | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
+|             12 | 10/27 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |  Assignment 3 is up  | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
+|             13 | 11/1 | Semantic Parsing, NLP paper analysis [[slides][s13]] |   | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
 |             14 | 11/3 | NLP paper analysis discussions [[slides][s14]] |  |                            |
 |             15 |  11/8 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
 |             16 | 11/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
@@ -34,6 +38,7 @@
 |            23 |  12/8 | Final project presentation                      |                                    |                         |
 |              |  12/13 | No lecture (finals week)                      |                                    |                         |
 |              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
+-->
 
 [s01]: https://drive.google.com/file/d/1Wc3WWW5c1f0ZhusUAD-VEq2tWbRH7KCA/view?usp=sharing
 [s02]: https://drive.google.com/file/d/11e7fpRWTW089Qvnivkh1fxxBQXxIcbvY/view?usp=sharing
@@ -105,3 +110,4 @@
 [bros]: https://openreview.net/forum?id=punMXQEsPr0
 [dall-e]: https://arxiv.org/abs/2102.12092
 [ulmfit]: https://arxiv.org/abs/1801.06146
+[bpe]: https://arxiv.org/abs/1508.07909
