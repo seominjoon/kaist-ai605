@@ -4,7 +4,7 @@
 - [Schedule & Materials](https://seominjoon.github.io/kaist-ai605/schedule.html)
 - [Lecture Videos](https://www.youtube.com/playlist?list=PLN9tAT2r9TDy9tPOfgYm28Wl3D4vYm0Zs) on YouTube
 - [Q&A](https://github.com/seominjoon/kaist-ai605/discussions) on GitHub Discussions
-- [Instructions for NAVER Students](https://github.com/seominjoon/kaist-ai605/naver.html)
+- [Instructions for NAVER Students](https://seominjoon.github.io/kaist-ai605/naver.html)
 - [KAIST AI605 - Spring 2021](https://seominjoon.github.io/kaist-ai605/index-202103.html)
 
 ## Time & Location
