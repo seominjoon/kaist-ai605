@@ -7,7 +7,7 @@
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist]                        |
-|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks [[slides][s04]] |  Assignment 1 is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
+|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
 
 <!--
 |             05 | 9/13 | Jupyter Notebook, Token Classification, NER, MRC [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
