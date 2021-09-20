@@ -1,23 +1,24 @@
 # Schedule & Materials
 
-*No lecture on 9/20 & 9/22 (Chuseok), 10/4 (National Foundation Day), 10/11 (Hangeul Day), 10/18 & 10/20 (Midterm), and 12/13 & 12/15 (Final).*
+- All assignments and the final project are due at 23:00 on Wednesday, unless otherwise noted.
+- No lecture on 9/20 & 9/22 (Chuseok), 10/4 (National Foundation Day), 10/11 (Hangeul Day), 10/18 & 10/20 (Midterm), and 12/13 & 12/15 (Final).
 
 | # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist]                        |
-|             04 | 9/8 | Tokenization (2), Word Embedding, Recurrent Neural Networks [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
+|             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
 |             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
 |             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
+|             07 | 9/27 | Token Classification (2), Text Generation, Encoder-Decoder  |  | [[Cho et al., 2014]][seq2seq] |
+|             08 | 9/29 | Attention | Assignment 1 is due | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
+|              | 10/4 | No lecture (National Foundation Day) |                             |                         |
+|             09 | 10/6 | Retrieval | Assignment 2 is up |              |
 
 <!--
-|             07 | 9/27 | Encoder Attention, Transformer [[slides][s07]] |  | [[Hermann et al., 2015]][teaching], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Vaswani et al., 2017]][transformer] |
-|             08 | 9/29 | Transformer [[slides][s08]] | Assignment 1 is due | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated] |
-|              | 10/4 | No lecture (National Foundation Day) |                             |                         |
-|             09 | 10/6 | Annotated Transformer [[slides][s09]]  | Assignment 2 is up | [Annotated Transformer][annotated]                   |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
 |             10 |  10/13 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
