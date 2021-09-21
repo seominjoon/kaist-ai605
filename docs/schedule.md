@@ -13,30 +13,30 @@
 |             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
-|             07 | 9/27 | Token Classification (2), Text Generation, Encoder-Decoder  |  | [[Cho et al., 2014]][seq2seq] |
-|             08 | 9/29 | Attention | Assignment 1 is due | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
+|             07 | 9/27 | Token Classification (2), Open-domain QA  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
+|             08 | 9/29 | Retrieval | Assignment 1 is due, Final Project is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
-|             09 | 10/6 | Retrieval | Assignment 2 is up |              |
-
-<!--
+|             09 | 10/6 | Text Generation, Encoder-Decoder | Assignment 2 is up | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
-|             10 |  10/13 | LayerNorm, Teacher Forcing, Beam Search, Byte Pair Encoding (BPE), Language Model [[slides][s10]] |  |  [[Ioffe & Szegedy, 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
+|             10 |  10/13 | Attention |  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) | Assignment 2 is due |                         |
-|             11 |  10/25 | Language Model, Syntactic Parsing [[slides][s11]] |                                     |  [Syntactic Parsing][syntactic]                       |
-|             12 | 10/27 | Syntactic Parsing, Semantic Parsing [[slides][s12]] |  Assignment 3 is up  | [Syntactic Parsing][syntactic], [[Zhong et al., 2017]][wikisql]                        |
-|             13 | 11/1 | Semantic Parsing, NLP paper analysis [[slides][s13]] |   | [[Chen et al., 2016]][thorough], [[Rajpurkar et al., 2016]][squad]                        |
-|             14 | 11/3 | NLP paper analysis discussions [[slides][s14]] |  |                            |
-|             15 |  11/8 | Pretrained Language Model [[slides][s15]] |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
-|             16 | 11/10 | Pretrained LM and Tools [[slides][s16]]  | Assignment 3 is due  |                                        |
-|             17 | 11/15 | Pretrained LM Tools [[slides][s17]] | [Assignment 4][a4] is up                                    | [`transformers`][transformers]                        |
-|             18 | 11/17 | Open-domain QA and Final Project Tutorial [[slides][s18]] | [Final Project][final] is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
-|             19 | 11/22 | Nearest Neighbor Search, Large Language Models [[slides][s19]] |  |[`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
-|             20 | 11/24 | Large Language Models [[slides][s20]] | Assignment 4 is due                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
-|             21 | 11/29 | In-context Learning, Recent Trend in NLP [[slides][s21]]     |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
-|              |  12/1 | Spare       |                |                         |
-|             22 |  12/6 | Final project presentation                      |                                    |                         |
-|            23 |  12/8 | Final project presentation                      |                                    |                         |
+|             11 |  10/25 | Decoding Strategies |                                     |                         |
+|             12 | 10/27 | Transformer |  Assignment 3 is up  |                         |
+|             13 | 11/1 | Transformer (2), Language Model |   |                         |
+|             14 | 11/3 | Pre-BERT Paper Discussion |   |                             |
+
+<!--
+|             15 |  11/8 | Transfer Learning, Pretrained Language Model  |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
+|             16 | 11/10 | BERT  | Assignment 3 is due  |                                        |
+|             17 | 11/15 | BART & T5 |                                     | [`transformers`][transformers]                        |
+|             18 | 11/17 | Hugging Face Tutorial | Assignment 4 is up  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
+|             19 | 11/22 | Scaling Laws for Neural Language Models |  | [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
+|             20 | 11/24 | GPT-2 & GPT-3 |                     | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
+|             21 | 11/29 | Multimodal Language Models |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
+|              |  12/1 | Post-BERT Paper Discussion  | Assignment 4 is due   |                         |
+|             22 |  12/6 | Final Project Presentation                      |                                    |                         |
+|            23 |  12/8 | Final Project Presentation                      |                                    |                         |
 |              |  12/13 | No lecture (finals week)                      |                                    |                         |
 |              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
 -->
@@ -113,3 +113,4 @@
 [ulmfit]: https://arxiv.org/abs/1801.06146
 [bpe]: https://arxiv.org/abs/1508.07909
 [dropout]: https://jmlr.org/papers/v15/srivastava14a.html
+[exposure-bias]: https://openreview.net/forum?id=rJg2fTNtwr

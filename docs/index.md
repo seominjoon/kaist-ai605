@@ -10,7 +10,7 @@
 ## Time & Location
 
 Mon & Wed 16:00-17:15 via Zoom 
-- visit KLMS or email a TA (or the instructor) for the invitation
+- Visit KLMS or email a TA (or the instructor) for the invitation
 - The class will be fully virtual
 - All lectures and materials will be in English
 
@@ -77,19 +77,19 @@ This course covers recent advances in natural language processing area driven by
 - Transformer
 - Language Model
 - Pretrained Language Model (e.g. BERT)
-- Text Classification (Sentiment Analysis)
-- Sequence Tagging (NER, Question Answering)
-- Sequence Generation (Summarization, Machine Translation, Semantic Parsing)
+- Text Classification (e.g. Sentiment Analysis)
+- Sequence Tagging (e.g. NER, Question Answering)
+- Sequence Generation (e.g. Summarization, Machine Translation, Semantic Parsing)
 - Zero-shot Learning (e.g. GPT-3)
-- NLP Tools (e.g. Hugging Face)
+- Modern NLP Libraries (e.g. Hugging Face)
 
 
 ### Assignments
 
-- Assignment 1: Using RNNs to create a sequence classifer from scratch
-- Assignment 2: Creating a retrieval system from scratch and using `faiss`
-- Assignment 3: Using BERT to create a sequence classifier and a token classifier (for QA)
-- Assignment 4: Using T5 to create a sequence generation model
+- Assignment 1: Implement RNNs to create a sequence classifer
+- Assignment 2: Implement a passage retrieval system using `faiss`
+- Assignment 3: Implement Transformer to create a sequence-to-sequence model
+- Assignment 4: Using BERT to create a sequence classifier and a token classifier (for QA)
 
 
 
@@ -102,22 +102,6 @@ In this case, we recommend you to complete Assignment 2 and 3.
 ## Textbook
 
 There is no required textbook for this course but I highly recommend [Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/), whose pdf version is available for free, for your reference.
-
-## Weekly Schedule (tentative)
-1. Introduction to NLP and and Review of Deep Learning
-2. Recurrent Neural Networks, Text Classification
-3. Token Classification
-4. Encoder-Decoder, Sequence Generation
-5. Transformer
-6. NLP paper writing
-7. Language Model
-8. Paper analysis presentation
-9. Pretrained Language Model & Finetuning
-10. NLP Tools 
-11. Intro to the final project (Open-domain QA)
-12. Large Language Model
-13. Generalization & In-context Learning  
-15. Final project presentation
 
 
 ## Recommended References
