@@ -13,8 +13,8 @@
 |             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
-|             07 | 9/27 | Token Classification (2), Open-domain QA  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
-|             08 | 9/29 | Retrieval | Assignment 1 is due, Final Project is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
+|             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
+|             08 | 9/29 | Retrieval (2) | Assignment 1 is due, Final Project is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder | Assignment 2 is up | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
@@ -47,7 +47,7 @@
 [s04]: https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view?usp=sharing
 [s05]: https://drive.google.com/file/d/11tGioYJPIwvO6orqTwkgyuUqxFpheZ8p/view?usp=sharing
 [s06]: https://drive.google.com/file/d/121Ga4V2U030RaLEPkRl5sDdoYTHyBN0c/view?usp=sharing
-[s07]: https://drive.google.com/file/d/1TNog2BnX8hJ1FoY1pHQ_MaLOyG1FkfUv/view?usp=sharing
+[s07]: https://drive.google.com/file/d/12ESkOClHnxURjEc45MDidJK0WdwBXj9z/view?usp=sharing
 [s08]: https://drive.google.com/file/d/1_cPZ04tJzB67oMm2QA6soiI1QNv6oRSs/view?usp=sharing
 [s09]: https://drive.google.com/file/d/1iIBkBIlyO8wyHYsKUYcZwAd8hNFu6Yjl/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1_GojPXerbuPzmELcMtzLO-ttwRgB8PFD/view?usp=sharing
