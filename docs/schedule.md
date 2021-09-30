@@ -14,11 +14,11 @@
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
 |             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
-|             08 | 9/29 | Retrieval (2) [[slides][s08]] | Assignment 1 is due, Final Project is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
+|             08 | 9/29 | Retrieval (2) [[slides][s08]] | Assignment 1 is due, [Final Project][final] is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder | Assignment 2 is up | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
-|             10 |  10/13 | Attention |  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
+|             10 |  10/13 | Attention | [Final Project Survey][final-survey] is due.  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) | Assignment 2 is due |                         |
 |             11 |  10/25 | Decoding Strategies |                                     |                         |
@@ -67,7 +67,8 @@
 [a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
 [a3]: https://www.overleaf.com/read/vrpvdhcywbnv
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
-[final]: https://drive.google.com/file/d/1ARYetuQsPot3PhzsqT0wny4WZyJNDySi/view?usp=sharing
+[final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
+[final-survey]: https://forms.gle/sUb6Tok21e19rZC76
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
