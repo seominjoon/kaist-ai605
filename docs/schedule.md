@@ -16,7 +16,7 @@
 |             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
 |             08 | 9/29 | Retrieval (2) [[slides][s08]] | Assignment 1 is due, [Final Project][final] is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
-|             09 | 10/6 | Text Generation, Encoder-Decoder | Assignment 2 is up | [[Cho et al., 2014]][seq2seq]             |
+|             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | Assignment 2 is up | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
 |             10 |  10/13 | Attention | [Final Project Survey][final-survey] is due.  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
@@ -49,7 +49,7 @@
 [s06]: https://drive.google.com/file/d/121Ga4V2U030RaLEPkRl5sDdoYTHyBN0c/view?usp=sharing
 [s07]: https://drive.google.com/file/d/12ESkOClHnxURjEc45MDidJK0WdwBXj9z/view?usp=sharing
 [s08]: https://drive.google.com/file/d/12KnsPNcRwmQezmxnjTLzaz7-bWQt81f0/view?usp=sharing
-[s09]: https://drive.google.com/file/d/1iIBkBIlyO8wyHYsKUYcZwAd8hNFu6Yjl/view?usp=sharing
+[s09]: https://drive.google.com/file/d/1OlGeBWNJnTGB10pfdVOl6dp5E4WTeGYv/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1_GojPXerbuPzmELcMtzLO-ttwRgB8PFD/view?usp=sharing
 [s11]: https://drive.google.com/file/d/12pOBHmevCbS4cmXK50FD0LeB-HUfN6Js/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1R0t0PMOLmYPv2GvQCob5yUN7HXkF76A5/view?usp=sharing
