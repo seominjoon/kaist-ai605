@@ -22,15 +22,15 @@
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) |  |                         |
 |             11 |  10/25 | Decoding Strategies |                                     |                         |
-|             12 | 10/27 | Transformer |  Assignment 2 is due.  |                         |
+|             12 | 10/27 | Transformer |  Assignment 2 is due, Assignment 3 is up.  |                         |
 |             13 | 11/1 | Transformer (2), Language Model |   |                         |
-|             14 | 11/3 | Pre-BERT Paper Discussion |   |  Assignment 3 is up.                           |
+|             14 | 11/3 | Pre-BERT Paper Discussion |   |                             |
 
 <!--
 |             15 |  11/8 | Transfer Learning, Pretrained Language Model  |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
-|             16 | 11/10 | BERT  |   |                                        |
+|             16 | 11/10 | BERT  |   | Assignment 3 is due.                                       |
 |             17 | 11/15 | BART & T5 |                                     | [`transformers`][transformers]                        |
-|             18 | 11/17 | Hugging Face Tutorial | Assignment 3 is due, Assignment 4 is up.  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
+|             18 | 11/17 | Hugging Face Tutorial | Assignment 4 is up.  | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
 |             19 | 11/22 | Scaling Laws for Neural Language Models |  | [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
 |             20 | 11/24 | GPT-2 & GPT-3 | , Assignment 4 is up                    | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
 |             21 | 11/29 | Multimodal Language Models |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
