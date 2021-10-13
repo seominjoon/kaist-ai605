@@ -18,7 +18,7 @@
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
-|             10 |  10/13 | Attention | [Final Project Survey][final-survey] is due. Assignment 2 is up.   | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
+|             10 |  10/13 | Attention | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.   | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) |  |                         |
 |             11 |  10/25 | Decoding Strategies |                                     |                         |
@@ -64,7 +64,7 @@
 [s21]: https://drive.google.com/file/d/1CdOeMFveW0kxMc5UgOt9Qc3tX-9pkFxE/view?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/19lEyaARbvyxlqaYa4MbKvzxuYv7yt-qG
-[a2]: https://colab.research.google.com/drive/14ivrFazt_vv4jSE9eZ3AdQfP0DsAG8Gw?usp=sharing
+[a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
 [a3]: https://www.overleaf.com/read/vrpvdhcywbnv
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
