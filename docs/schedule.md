@@ -21,9 +21,9 @@
 |             10 |  10/13 | Attention [[slides][s10]] | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.   | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) |  |                         |
-|             11 |  10/25 | Decoding Strategies |                                     |                         |
-|             12 | 10/27 | Transformer |  Assignment 2 is due, Assignment 3 is up.  |                         |
-|             13 | 11/1 | Transformer (2), Language Model |   |                         |
+|             11 |  10/25 | Transformer |                                     |                         |
+|             12 | 10/27 | Transformer (2), Language Model |  Assignment 2 is due, Assignment 3 is up.  |                         |
+|             13 | 11/1 | Decoding Strategies |   |                         |
 |             14 | 11/3 | Pre-BERT Paper Discussion |   |                             |
 
 <!--
