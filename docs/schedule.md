@@ -18,7 +18,7 @@
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
-|             10 |  10/13 | Attention [[slides][s10]] | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.   | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
+|             10 |  10/13 | Attention [[slides][s10]] | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.  [Assignment 1 Solution][s1] is up.  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) |  |                         |
 |             11 |  10/25 | Transformer |                                     |                         |
@@ -69,6 +69,8 @@
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
+
+[s1]: https://colab.research.google.com/drive/1Mq_ZUPis2F8xuH9a2u9FzA_hEdMzFYeW
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
