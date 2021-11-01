@@ -22,8 +22,8 @@
 |              | 10/18 | No lecture (midterm week) |   |                         |
 |              | 10/20 | No lecture (midterm week) |  |                         |
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
-|             12 | 10/27 | Transformer (2), Language Model [[slides][s12]]|  Assignment 2 is due.  |                         |
-|             13 | 11/1 | Decoding Strategies |   |                         |
+|             12 | 10/27 | Transformer (2) [[slides][s12]]|  Assignment 2 is due.  |                         |
+|             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm],                         |
 |             14 | 11/3 | Pre-BERT Paper Discussion | Assignment 3 is up.  |                             |
 
 <!--
@@ -53,7 +53,7 @@
 [s10]: https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view?usp=sharing
 [s11]: https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view?usp=sharing
-[s13]: https://drive.google.com/file/d/1sFfLPIxIsz59pACfxRuwBZz75Qam-S42/view?usp=sharing
+[s13]: https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view?usp=sharing
 [s14]: https://drive.google.com/file/d/1fW45gUS0K5omc4WfV4hOLjlzclZDqqeO/view?usp=sharing
 [s15]: https://drive.google.com/file/d/1YeEHt9TuTZJzHpxJav2NC8xKNo_qLrvh/view?usp=sharing
 [s16]: https://drive.google.com/file/d/14yBYoyIfiLgfgcq6oE2ZhPfAe-u1df1b/view?usp=sharing
