@@ -7,13 +7,13 @@
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
-|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [SST][sst]                        |
-|             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
+|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
+|             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec] |
 |             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm]|
 |             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
-|             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  | [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
+|             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  |[[Hermann et al., 2015]][teaching], [[Chen et al., 2016]][thorough], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
 |             08 | 9/29 | Retrieval (2) [[slides][s08]] | Assignment 1 is due, [Final Project][final] is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
 |              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
@@ -23,8 +23,8 @@
 |              | 10/20 | No lecture (midterm week) |  |                         |
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
 |             12 | 10/27 | Transformer (2) [[slides][s12]]|  Assignment 2 is due.  |                         |
-|             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm],                         |
-|             14 | 11/3 | Pre-BERT Paper Discussion | Assignment 3 is up.  |                             |
+|             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
+|             14 | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] | Assignment 3 is up.  |                             |
 
 <!--
 |             15 |  11/8 | Transfer Learning, Pretrained Language Model  |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
@@ -71,6 +71,8 @@
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
 
 [s1]: https://colab.research.google.com/drive/1Mq_ZUPis2F8xuH9a2u9FzA_hEdMzFYeW
+
+[d1]: https://docs.google.com/document/d/1hLzjQCiqU7zQq4RMg9A063Fv537VXmccjWk0pph2tn0/edit?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
