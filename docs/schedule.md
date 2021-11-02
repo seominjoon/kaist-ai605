@@ -7,9 +7,9 @@
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
 |             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
 |             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
-|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist]                        |
+|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [SST][sst]                        |
 |             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout] |
-|             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07]|
+|             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm]|
 |             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
 |              | 9/20 | No lecture (Chuseok) |                             |                         |
 |              | 9/22 | No lecture (Chuseok) |                             |                         |
@@ -117,3 +117,4 @@
 [bpe]: https://arxiv.org/abs/1508.07909
 [dropout]: https://jmlr.org/papers/v15/srivastava14a.html
 [exposure-bias]: https://openreview.net/forum?id=rJg2fTNtwr
+[sst]: https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
