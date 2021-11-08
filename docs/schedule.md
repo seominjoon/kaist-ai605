@@ -26,7 +26,7 @@
 |             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
 |||||
-|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | Assignment 3 is up.                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
+|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
 |             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta]                        |
 |             16 | 11/17 | Hugging Face Tutorial |  | [`transformers`][transformers] |                      
@@ -63,7 +63,7 @@
 
 [a1]: https://colab.research.google.com/drive/19lEyaARbvyxlqaYa4MbKvzxuYv7yt-qG
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
-[a3]: https://www.overleaf.com/read/vrpvdhcywbnv
+[a3]: https://colab.research.google.com/drive/1xRr_ZZc-HUwR37X_7EmzaK-JHBtJ5WW2?usp=sharing
 [a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
