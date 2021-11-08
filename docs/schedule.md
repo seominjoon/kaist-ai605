@@ -24,22 +24,20 @@
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
 |             12 | 10/27 | Transformer (2) [[slides][s12]]|  Assignment 2 is due.  |                         |
 |             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
-|             14 | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] | Assignment 3 is up.  |                             |
-
-<!--
-|             15 |  11/8 | Transfer Learning, Pretrained Language Model  |                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit] [[Radford et al., 2018]][gpt], [[Devlin et al., 2018]][bert]                                         |
-|             16 | 11/10 | BERT  |   |                                         |
-|             17 | 11/15 | BART & T5 |                                     | [`transformers`][transformers]                        |
-|             18 | 11/17 | Hugging Face Tutorial | Assignment 3 is due, Assignment 4 is up. | [[Chen et al., 2017]][drqa], [[Karpukhin et al., 2020]][dpr] |                      
-|             19 | 11/22 | Scaling Laws for Neural Language Models |  | [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [[Lewis et al., 2020]][bart]|
-|             20 | 11/24 | GPT-2 & GPT-3 |  | [[Lan et al., 2020]][albert], [[Clark et al., 2020]][electra], [[Raffel et al., 2020]][t5], [[Xu et al., 2020]][layoutlm], [[Sun et al., 2020]][mobilebert], [[Radford et al., 2019]][gpt-2], [[Roberts et al., 2020]][cbqa], [[Hong et al., 2021]][bros]|
-|             21 | 11/29 | Multimodal Language Models |                                   | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
-|              |  12/1 | Post-BERT Paper Discussion  | Assignment 4 is due.   | |
-|             22 |  12/6 | Final Project Presentation                      |                                     |                         |
-|            23 |  12/8 | Final Project Presentation                      |                                   |                         |
+|              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
+|||||
+|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | Assignment 3 is up.                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
+|              | 11/10 | No lecture (EMNLP)  |   |                                         |
+|             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta]                        |
+|             16 | 11/17 | Hugging Face Tutorial |  | [`transformers`][transformers] |                      
+|             17 | 11/22 | Pretraining for Generation |Assignment 3 is due, Assignment 4 is up.  | [[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]|
+|             18 | 11/24 | Scaling Laws, In-Context Learning  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
+|             19 | 11/29 | Recent Trend in NLP |                                   | [[Ramesh et al., 2021]][dall-e] |
+|              |  12/1 | Post-BERT Paper Discussion  |  | |
+|              |  12/6 | Final Project Presentation                      |  Assignment 4 is due. |           |
+|             |  12/8 | Final Project Presentation                      |                                   |                         |
 |              |  12/13 | No lecture (finals week)                      |                                    |                         |
 |              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
--->
 
 [s01]: https://drive.google.com/file/d/1Wc3WWW5c1f0ZhusUAD-VEq2tWbRH7KCA/view?usp=sharing
 [s02]: https://drive.google.com/file/d/11e7fpRWTW089Qvnivkh1fxxBQXxIcbvY/view?usp=sharing
@@ -54,7 +52,7 @@
 [s11]: https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view?usp=sharing
 [s13]: https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view?usp=sharing
-[s14]: https://drive.google.com/file/d/1fW45gUS0K5omc4WfV4hOLjlzclZDqqeO/view?usp=sharing
+[s14]: https://drive.google.com/file/d/1079QeGAsL8lUMJuL-UE8UrJBhTJIwriu/view?usp=sharing
 [s15]: https://drive.google.com/file/d/1YeEHt9TuTZJzHpxJav2NC8xKNo_qLrvh/view?usp=sharing
 [s16]: https://drive.google.com/file/d/14yBYoyIfiLgfgcq6oE2ZhPfAe-u1df1b/view?usp=sharing
 [s17]: https://drive.google.com/file/d/11F3jIcHsvyRb_7z1KpQN1RubowNiDYu-/view?usp=sharing
@@ -120,3 +118,4 @@
 [dropout]: https://jmlr.org/papers/v15/srivastava14a.html
 [exposure-bias]: https://openreview.net/forum?id=rJg2fTNtwr
 [sst]: https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
+[ulmfit]: https://arxiv.org/abs/1801.06146
