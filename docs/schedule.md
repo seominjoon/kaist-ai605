@@ -26,7 +26,7 @@
 |             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
 |||||
-|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
+|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
 |             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta]                        |
 |             16 | 11/17 | Hugging Face Tutorial |  | [`transformers`][transformers] |                      
@@ -119,3 +119,4 @@
 [exposure-bias]: https://openreview.net/forum?id=rJg2fTNtwr
 [sst]: https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
 [ulmfit]: https://arxiv.org/abs/1801.06146
+[qa-transfer]: https://arxiv.org/abs/1702.02171
