@@ -28,7 +28,7 @@
 |||||
 |             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
-|             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta]                        |
+|             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
 |             16 | 11/17 | Hugging Face Tutorial |  | [`transformers`][transformers] |                      
 |             17 | 11/22 | Pretraining for Generation |Assignment 3 is due, Assignment 4 is up.  | [[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]|
 |             18 | 11/24 | Scaling Laws, In-Context Learning  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
@@ -120,3 +120,4 @@
 [sst]: https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
 [ulmfit]: https://arxiv.org/abs/1801.06146
 [qa-transfer]: https://arxiv.org/abs/1702.02171
+[bert-slides]: https://nlp.stanford.edu/seminar/details/jdevlin.pdf
