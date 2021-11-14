@@ -28,8 +28,8 @@
 |||||
 |             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
-|             15 | 11/15 | BERT |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
-|             16 | 11/17 | Hugging Face Tutorial |  | [`transformers`][transformers] |                      
+|             15 | 11/15 | BERT [[slides][s15]] |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
+|             16 | 11/17 | Hugging Face and Final Project Tutorial |  | [`transformers`][transformers] |                      
 |             17 | 11/22 | Pretraining for Generation |Assignment 3 is due, Assignment 4 is up.  | [[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]|
 |             18 | 11/24 | Scaling Laws, In-Context Learning  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
 |             19 | 11/29 | Recent Trend in NLP |                                   | [[Ramesh et al., 2021]][dall-e] |
@@ -53,7 +53,7 @@
 [s12]: https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view?usp=sharing
 [s13]: https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view?usp=sharing
 [s14]: https://drive.google.com/file/d/1079QeGAsL8lUMJuL-UE8UrJBhTJIwriu/view?usp=sharing
-[s15]: https://drive.google.com/file/d/1YeEHt9TuTZJzHpxJav2NC8xKNo_qLrvh/view?usp=sharing
+[s15]: https://drive.google.com/file/d/10B5wdxaQFvCh21O0Gi9hDn8c5189jcPH/view?usp=sharing
 [s16]: https://drive.google.com/file/d/14yBYoyIfiLgfgcq6oE2ZhPfAe-u1df1b/view?usp=sharing
 [s17]: https://drive.google.com/file/d/11F3jIcHsvyRb_7z1KpQN1RubowNiDYu-/view?usp=sharing
 [s18]: https://drive.google.com/file/d/1VlNmxw9gdJ3FrbuMPBHtssz8Fml8bArS/view?usp=sharing
