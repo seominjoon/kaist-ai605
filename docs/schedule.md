@@ -29,10 +29,10 @@
 |             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
 |             15 | 11/15 | BERT [[slides][s15]] |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
-|             16 | 11/17 | Hugging Face and Final Project Tutorial |  | [`transformers`][transformers] |                      
-|             17 | 11/22 | Pretraining for Generation |Assignment 3 is due, Assignment 4 is up.  | [[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]|
-|             18 | 11/24 | Scaling Laws, In-Context Learning  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3] |
-|             19 | 11/29 | Recent Trend in NLP |                                   | [[Ramesh et al., 2021]][dall-e] |
+|             16 | 11/17 | Hugging Face and Final Project Tutorial [[slides][s16]] |  | [`transformers` Tutorial][transformers] |                      
+|              | 11/22 | No lecture |Assignment 3 is due, Assignment 4 is up.  | |
+|             17 | 11/24 |Pretraining for Generation   |  |[[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]  |
+|             18 | 11/29 | Scaling Laws, In-Context Learning |                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 |              |  12/1 | Post-BERT Paper Discussion  |  | |
 |              |  12/6 | Final Project Presentation                      |  Assignment 4 is due. |           |
 |             |  12/8 | Final Project Presentation                      |                                   |                         |
@@ -54,7 +54,7 @@
 [s13]: https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view?usp=sharing
 [s14]: https://drive.google.com/file/d/1079QeGAsL8lUMJuL-UE8UrJBhTJIwriu/view?usp=sharing
 [s15]: https://drive.google.com/file/d/10B5wdxaQFvCh21O0Gi9hDn8c5189jcPH/view?usp=sharing
-[s16]: https://drive.google.com/file/d/14yBYoyIfiLgfgcq6oE2ZhPfAe-u1df1b/view?usp=sharing
+[s16]: https://drive.google.com/file/d/10Ljc-WoOyvb8D1ZGtzrEi6OaYiFYBg-w/view?usp=sharing
 [s17]: https://drive.google.com/file/d/11F3jIcHsvyRb_7z1KpQN1RubowNiDYu-/view?usp=sharing
 [s18]: https://drive.google.com/file/d/1VlNmxw9gdJ3FrbuMPBHtssz8Fml8bArS/view?usp=sharing
 [s19]: https://drive.google.com/file/d/1lj58BULPV0SZUZBXkPdOYAIK_sL3vi0i/view?usp=sharing
@@ -93,7 +93,7 @@
 [elmo]: https://arxiv.org/abs/1802.05365
 [gpt]: https://openai.com/blog/language-unsupervised/
 [bert]: https://arxiv.org/abs/1810.04805
-[transformers]: https://huggingface.co/transformers/
+[transformers]: https://huggingface.co/transformers/training.html
 [drqa]: https://arxiv.org/abs/1704.00051
 [dpr]: https://arxiv.org/abs/2004.04906
 [hnsw]: https://arxiv.org/abs/1603.09320
