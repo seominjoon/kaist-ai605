@@ -30,7 +30,7 @@
 |              | 11/10 | No lecture (EMNLP)  |   |                                         |
 |             15 | 11/15 | BERT [[slides][s15]] |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
 |             16 | 11/17 | Hugging Face and Final Project Tutorial [[slides][s16]] |  | [`transformers` Tutorial][transformers] |                      
-|              | 11/22 | No lecture |Assignment 3 is due, Assignment 4 is up.  | |
+|              | 11/22 | No lecture |Assignment 3 is due, [Assignment 4][a4] is up.  | |
 |             17 | 11/24 |Pretraining for Generation   |  |[[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa]  |
 |             18 | 11/29 | Scaling Laws, In-Context Learning |                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 |              |  12/1 | Post-BERT Paper Discussion  |  | |
@@ -64,7 +64,7 @@
 [a1]: https://colab.research.google.com/drive/19lEyaARbvyxlqaYa4MbKvzxuYv7yt-qG
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
 [a3]: https://colab.research.google.com/drive/1xRr_ZZc-HUwR37X_7EmzaK-JHBtJ5WW2?usp=sharing
-[a4]: https://colab.research.google.com/drive/1v_oaSFru0rEN1fUXGOV0DSoX5J490JgT?usp=sharing
+[a4]: https://colab.research.google.com/drive/1M4tfQtRh_F0JXajx-5uInfK1lUtg6u9w?usp=sharing
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
 
