@@ -32,7 +32,7 @@
 |             16 | 11/17 | Hugging Face and Final Project Tutorial [[slides][s16]] |  | [`transformers` Tutorial][transformers] |                      
 |              | 11/22 | No lecture |Assignment 3 is due, [Assignment 4][a4] is up.  | |
 |             17 | 11/24 |Pretraining for Generation [[slides][s17]] |  |[[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]  |
-|             18 | 11/29 | Scaling Laws, In-Context Learning |                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
+|             18 | 11/29 | Scaling Laws, In-Context Learning [[slides][s18]]|                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 |              |  12/1 | Post-BERT Paper Discussion [[instructions][d2]]  |  | |
 |              |  12/6 | Final Project Presentation                      |  Assignment 4 is due. |           |
 |             |  12/8 | Final Project Presentation                      |                                   |                         |
@@ -56,7 +56,7 @@
 [s15]: https://drive.google.com/file/d/10B5wdxaQFvCh21O0Gi9hDn8c5189jcPH/view?usp=sharing
 [s16]: https://drive.google.com/file/d/10Ljc-WoOyvb8D1ZGtzrEi6OaYiFYBg-w/view?usp=sharing
 [s17]: https://drive.google.com/file/d/12LIFz0bPcs46UMXNKZWMY8lo9V1sCJo6/view?usp=sharing
-[s18]: https://drive.google.com/file/d/1VlNmxw9gdJ3FrbuMPBHtssz8Fml8bArS/view?usp=sharing
+[s18]: https://drive.google.com/file/d/1-DVP3fmGiW2SbCryQuMJV_1DL4QOlIEy/view?usp=sharing
 [s19]: https://drive.google.com/file/d/1lj58BULPV0SZUZBXkPdOYAIK_sL3vi0i/view?usp=sharing
 [s20]: https://drive.google.com/file/d/17SUpIjpDX_if3rW3YZUGmUs_jk2__xRW/view?usp=sharing
 [s21]: https://drive.google.com/file/d/1CdOeMFveW0kxMc5UgOt9Qc3tX-9pkFxE/view?usp=sharing
