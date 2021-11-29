@@ -33,7 +33,7 @@
 |              | 11/22 | No lecture |Assignment 3 is due, [Assignment 4][a4] is up.  | |
 |             17 | 11/24 |Pretraining for Generation [[slides][s17]] |  |[[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]  |
 |             18 | 11/29 | Scaling Laws, In-Context Learning |                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
-|              |  12/1 | Post-BERT Paper Discussion  |  | |
+|              |  12/1 | Post-BERT Paper Discussion [[instructions][d2]]  |  | |
 |              |  12/6 | Final Project Presentation                      |  Assignment 4 is due. |           |
 |             |  12/8 | Final Project Presentation                      |                                   |                         |
 |              |  12/13 | No lecture (finals week)                      |                                    |                         |
@@ -71,6 +71,7 @@
 [s1]: https://colab.research.google.com/drive/1Mq_ZUPis2F8xuH9a2u9FzA_hEdMzFYeW
 
 [d1]: https://docs.google.com/document/d/1hLzjQCiqU7zQq4RMg9A063Fv537VXmccjWk0pph2tn0/edit?usp=sharing
+[d2]: https://docs.google.com/document/d/19voNry_NNJd3QpMV2XnDVZwwyhwlBAlwDX4RqWeKT7s/edit?usp=sharing
 
 [word2vec]: https://arxiv.org/abs/1301.3781
 [mnist]: http://yann.lecun.com/exdb/mnist/
