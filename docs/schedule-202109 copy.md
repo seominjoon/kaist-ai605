@@ -1,15 +1,12 @@
 # Schedule & Materials
 
-- Lectures (Lec XX) are on-site for Seoul Campus students, while lab sessions (Lab XX) are via Zoom for everyone. 
-- All assignments and the final project are due at 23:00 KST, unless otherwise noted.
-- No class on 3/1 (Holiday), 4/19 & 4/21 (midterm exam week), 5/5 (Holiday), and 6/14 & 6/16 (final exam week).
+- All assignments and the final project are due at 23:00 on Wednesday, unless otherwise noted.
+- No lecture on 9/20 & 9/22 (Chuseok), 10/4 (National Foundation Day), 10/11 (Hangeul Day), 10/18 & 10/20 (Midterm), and 12/13 & 12/15 (Final).
 
-| Session | Date      | Topics                                  | Assignments | Reading List |
+| # | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
-|             Lec 01 |  3/3 | Intro to NLP, Math & ML Basics [[slides][s01]]                     |                ||
-|             Lab 01 |  3/8 | Math & ML Basics                       | |                        |
-|             Lec 02 |  3/10 | XXX                      | |                        |
-<!--
+|             01 |  8/30 | Intro to NLP, Deep Learning Basics [[slides][s01]]                     |                ||
+|             02 |  9/1 | Deep Learning Basics (2) [[slides][s02]]                      | |                        |
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
 |             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec] |
 |             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm]|
@@ -41,9 +38,8 @@
 |             |  12/8 | Final Project Presentation                      |                                   |                         |
 |              |  12/13 | No lecture (finals week)                      |                                    |                         |
 |              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
--->
 
-[s01]: https://drive.google.com/file/d/11OKl3ftd0qOmKy6RAiBCqpmECnj1WHZm/view?usp=sharing
+[s01]: https://drive.google.com/file/d/1Wc3WWW5c1f0ZhusUAD-VEq2tWbRH7KCA/view?usp=sharing
 [s02]: https://drive.google.com/file/d/11e7fpRWTW089Qvnivkh1fxxBQXxIcbvY/view?usp=sharing
 [s03]: https://drive.google.com/file/d/1hWfX08e7mdjzbPgNn1txtbT3vOBINm6M/view?usp=sharing
 [s04]: https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view?usp=sharing
