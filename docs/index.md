@@ -6,9 +6,9 @@
 
 ## Time & Location
 
-Mon & Wed 16:00-17:15 via Zoom 
-- Visit KLMS or email a TA (or the instructor) for the invitation
-- The class will be fully virtual
+Tue & Thu 09:00-10:15 at [KAIST Seoul Campus Suite 9509](http://naver.me/FeOwr48s) or via Zoom 
+- Visit KLMS or email a TA (or the instructor) for the Zoom invitation
+- The class will be on-site and virtual hybrid; Seoul Campus students are expected to be on-site.
 - All lectures and materials will be in English
 
 
@@ -22,7 +22,7 @@ Mon & Wed 16:00-17:15 via Zoom
 
 - Office: KAIST Seoul Campus Building 9 Room 202
 
-- Office Hours: MW 17:30-18:00 via email
+- Office Hours: Request via [Calendly](https://calendly.com/kaist-minjoon/external-15-minute-meeting)
 
 ## TAs
 #### Miyoung Ko
