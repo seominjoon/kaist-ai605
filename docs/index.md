@@ -8,8 +8,8 @@
 
 Tue & Thu 09:00-10:15 at [KAIST Seoul Campus Suite 9509](http://naver.me/FeOwr48s) or via Zoom 
 - Visit KLMS or email a TA (or the instructor) for the Zoom invitation
-- The class will be on-site and virtual hybrid; Seoul Campus students are expected to be on-site.
-- All lectures and materials will be in English
+- The class will be on-site and virtual hybrid; Seoul Campus students are expected to be on-site for the lectures. All lab sessions are fully virtual and via Zoom.
+- All classes and materials will be in English.
 
 
 
