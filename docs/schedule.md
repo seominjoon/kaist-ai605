@@ -9,6 +9,7 @@
 |             Lec 01 |  3/3 | Intro to NLP, Math & ML Basics [[slides][s01]]                     |                ||
 |             Lab 01 |  3/8 | Math & ML Basics                       | |                        |
 |             Lec 02 |  3/10 | XXX                      | |                        |
+
 <!--
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
 |             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec] |
