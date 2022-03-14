@@ -9,6 +9,7 @@
 |             Lec 01 |  3/3 | Intro to NLP, Math & ML Basics [[slides][s01]]                     |                ||
 |             Lab 01 |  3/8 | Math & ML Basics [[slides][ls01]][[notebook][n01]] | |                        |
 |             Lec 02 |  3/10 | Text Classification, Recurrent Neural Networks [[slides][s02]]                      | | [MNIST][mnist], [[Socher et al., 2013]][sst], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec]|
+|             Lab 02 |  3/15 | Text Classification, Recurrent Neural Networks [[slides][ls02]][[notebook][n02]] | |                        |
 
 <!--
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
@@ -67,8 +68,10 @@
 [s21]: https://drive.google.com/file/d/1CdOeMFveW0kxMc5UgOt9Qc3tX-9pkFxE/view?usp=sharing
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
+[ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
+[n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/19lEyaARbvyxlqaYa4MbKvzxuYv7yt-qG
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
