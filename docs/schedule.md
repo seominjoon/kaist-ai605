@@ -10,6 +10,7 @@
 |             Lab 01 |  3/8 | Math & ML Basics [[slides][ls01]][[notebook][n01]] | |                        |
 |             Lec 02 |  3/10 | Text Classification, Recurrent Neural Networks [[slides][s02]]                      | | [MNIST][mnist], [[Socher et al., 2013]][sst], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec]|
 |             Lab 02 |  3/15 | Text Classification, Recurrent Neural Networks [[slides][ls02]][[notebook][n02]] | |                        |
+|             Lec 03 |  3/17 | video to be uploaded on Sat | [Assignment 1][a1] |                        |
 
 <!--
 |             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
@@ -73,7 +74,7 @@
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
 
-[a1]: https://colab.research.google.com/drive/19lEyaARbvyxlqaYa4MbKvzxuYv7yt-qG
+[a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
 [a3]: https://colab.research.google.com/drive/1xRr_ZZc-HUwR37X_7EmzaK-JHBtJ5WW2?usp=sharing
 [a4]: https://colab.research.google.com/drive/1M4tfQtRh_F0JXajx-5uInfK1lUtg6u9w?usp=sharing
