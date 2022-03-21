@@ -10,18 +10,10 @@
 |             Lab 01 |  3/8 | Math & ML Basics [[slides][ls01]][[notebook][n01]] | |                        |
 |             Lec 02 |  3/10 | Text Classification, Recurrent Neural Networks [[slides][s02]]                      | | [MNIST][mnist], [[Socher et al., 2013]][sst], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec]|
 |             Lab 02 |  3/15 | Text Classification, Recurrent Neural Networks [[slides][ls02]][[notebook][n02]] | |                        |
-|             Lec 03 |  3/17 | video to be uploaded on Sat | [Assignment 1][a1] |                        |
+|              |  3/17 | Class canceled |  |                        |
+|             Lec 03 |  3/22 | LSTM, Token Classification, Retrieval [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm], [[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 
 <!--
-|             03 | 9/6 | Deep Learning Basics (3), Text Classification, Tokenization [[slides][s03]]                      |                |  [MNIST][mnist], [[Socher et al., 2013]][sst]                        |
-|             04 | 9/8 | Tokenization (2), Word Embedding [[slides][s04]] |  [Assignment 1][a1] is up                                   | [[Sennrich et al., 2015]][bpe], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec] |
-|             05 | 9/13 | Recurrent Neural Networks [[slides][s05]] |                                      |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm]|
-|             06 | 9/15 | Recurrent Neural Networks (2), Token Classification [[slides][s06]] |                                      |[[Rajpurkar et al., 2016]][squad]|
-|              | 9/20 | No lecture (Chuseok) |                             |                         |
-|              | 9/22 | No lecture (Chuseok) |                             |                         |
-|             07 | 9/27 | Token Classification (2), Retrieval [[slides][s07]]  |  |[[Hermann et al., 2015]][teaching], [[Chen et al., 2016]][thorough], [[Wang & Jiang, 2017]][matchlstm], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa] |
-|             08 | 9/29 | Retrieval (2) [[slides][s08]] | Assignment 1 is due, [Final Project][final] is up | [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw] |
-|              | 10/4 | No lecture (National Foundation Day) |                             |                         |
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
 |             10 |  10/13 | Attention [[slides][s10]] | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.  [Assignment 1 Solution][s1] is up.  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
@@ -48,7 +40,7 @@
 
 [s01]: https://drive.google.com/file/d/11OKl3ftd0qOmKy6RAiBCqpmECnj1WHZm/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1-BMrvIM33VKbACbh1loaehZlUSKsZ3Lj/view?usp=sharing
-[s03]: https://drive.google.com/file/d/1hWfX08e7mdjzbPgNn1txtbT3vOBINm6M/view?usp=sharing
+[s03]: https://drive.google.com/file/d/13-yi-xOdny80neM2zNTZfGF_cTq62Qzg/view?usp=sharing
 [s04]: https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view?usp=sharing
 [s05]: https://drive.google.com/file/d/11tGioYJPIwvO6orqTwkgyuUqxFpheZ8p/view?usp=sharing
 [s06]: https://drive.google.com/file/d/121Ga4V2U030RaLEPkRl5sDdoYTHyBN0c/view?usp=sharing
