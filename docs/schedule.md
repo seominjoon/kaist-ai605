@@ -6,6 +6,7 @@
 
 | Session | Date      | Topics                                  | Assignments | Reading List |
 |----------------|-----------|-------------------------------------------------|------------------|-------------------------|
+|              |  3/1 | Holiday                     |                ||
 |             Lec 01 |  3/3 | Intro to NLP, Math & ML Basics [[slides][s01]]                     |                ||
 |             Lab 01 |  3/8 | Math & ML Basics [[slides][ls01]][[notebook][n01]] | |                        |
 |             Lec 02 |  3/10 | Text Classification, Recurrent Neural Networks [[slides][s02]]                      | | [MNIST][mnist], [[Socher et al., 2013]][sst], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec]|
