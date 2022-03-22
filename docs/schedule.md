@@ -11,9 +11,12 @@
 |             Lec 02 |  3/10 | Text Classification, Recurrent Neural Networks [[slides][s02]]                      | | [MNIST][mnist], [[Socher et al., 2013]][sst], [[Srivastava et al., 2014]][dropout], [[Mikolov et al., 2013]][word2vec]|
 |             Lab 02 |  3/15 | Text Classification, Recurrent Neural Networks [[slides][ls02]][[notebook][n02]] | |                        |
 |              |  3/17 | Class canceled |  |                        |
-|             Lec 03 |  3/22 | LSTM, Token Classification, Retrieval [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm], [[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
+|             Lec 03 |  3/22 | LSTM, Token Classification [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm] |
+|             Lab 03 |  3/24 | LSTM, Token Classification  | |                        |
+|             Lec 04 |  3/29 | Question Answering, Retrieval  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 
 <!--
+|             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]] |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
 |              | 10/11 | No lecture (Hangeul Proclamation Day) |                             |                         |
 |             10 |  10/13 | Attention [[slides][s10]] | [Final Project Survey][final-survey] is due. [Assignment 2][a2] is up.  [Assignment 1 Solution][s1] is up.  | [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong]         |
