@@ -13,7 +13,7 @@
 |             Lab 02 |  3/15 | Text Classification, Recurrent Neural Networks [[slides][ls02]][[notebook][n02]] | |                        |
 |              |  3/17 | Class canceled |  |                        |
 |             Lec 03 |  3/22 | LSTM, Token Classification [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm] |
-|             Lab 03 |  3/24 | LSTM, Token Classification  | |                        |
+|             Lab 03 |  3/24 | LSTM, Token Classification [[slides][ls03]][[notebook][n03]]  | |                        |
 |             Lec 04 |  3/29 | Question Answering, Retrieval  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 
 <!--
@@ -66,9 +66,11 @@
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
+[ls03]: https://drive.google.com/file/d/134m0lrDZYl9FzbgS_GSSnbLboC_HeBcj/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
+[n03]: https://colab.research.google.com/drive/1UUVTXjdBCzMkT0-BI2tPqNKIglQhx_ad?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
