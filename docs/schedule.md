@@ -14,7 +14,7 @@
 |              |  3/17 | Class canceled |  |                        |
 |             Lec 03 |  3/22 | LSTM, Token Classification [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm] |
 |             Lab 03 |  3/24 | LSTM, Token Classification [[slides][ls03]][[notebook][n03]]  | |                        |
-|             Lec 04 |  3/29 | Question Answering, Retrieval  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
+|             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]]  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 
 <!--
 |             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]] |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
@@ -45,7 +45,7 @@
 [s01]: https://drive.google.com/file/d/11OKl3ftd0qOmKy6RAiBCqpmECnj1WHZm/view?usp=sharing
 [s02]: https://drive.google.com/file/d/1-BMrvIM33VKbACbh1loaehZlUSKsZ3Lj/view?usp=sharing
 [s03]: https://drive.google.com/file/d/13-yi-xOdny80neM2zNTZfGF_cTq62Qzg/view?usp=sharing
-[s04]: https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view?usp=sharing
+[s04]: https://drive.google.com/file/d/1-Dg3Cgdhw_jegVwvso5lvjHE5o0SD7F8/view?usp=sharing
 [s05]: https://drive.google.com/file/d/11tGioYJPIwvO6orqTwkgyuUqxFpheZ8p/view?usp=sharing
 [s06]: https://drive.google.com/file/d/121Ga4V2U030RaLEPkRl5sDdoYTHyBN0c/view?usp=sharing
 [s07]: https://drive.google.com/file/d/12ESkOClHnxURjEc45MDidJK0WdwBXj9z/view?usp=sharing
