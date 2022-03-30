@@ -15,6 +15,7 @@
 |             Lec 03 |  3/22 | LSTM, Token Classification [[slides][s03]] | [Assignment 1][a1] |[Vanishing Gradients and Fancy RNNs][cs224n-07], [[Hochreiter & Schmidhuber, 1997]][lstm] |
 |             Lab 03 |  3/24 | LSTM, Token Classification [[slides][ls03]][[notebook][n03]]  | |                        |
 |             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]]  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
+|             Lab 04 |  3/31 | Question Answering, Retrieval  |  |                     |
 
 <!--
 |             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]] |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
