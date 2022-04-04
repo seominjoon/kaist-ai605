@@ -16,7 +16,7 @@
 |             Lab 03 |  3/24 | LSTM, Token Classification [[slides][ls03]][[notebook][n03]]  | |                        |
 |             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]]  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 |             Lab 04 |  3/31 | Question Answering, Retrieval [[slides][ls04]] [[notebook][n04]] |  |                     |
-|             Lec 05 |  4/5 | Text Generation [[slides][s05]]  |  | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
+|             Lec 05 |  4/5 | Text Generation [[slides][s05]]  | Assignment 1 is due (11pm KST) | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
 
 <!--
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
