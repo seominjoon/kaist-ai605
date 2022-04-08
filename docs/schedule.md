@@ -17,6 +17,7 @@
 |             Lec 04 |  3/29 | Question Answering, Retrieval [[slides][s04]]  |  |[[Rajpurkar et al., 2016]][squad], [[Hermann et al., 2015]][teaching], [[Seo et al., 2017]][bidaf], [[Chen et al., 2017]][drqa], [`faiss`][faiss], [[Malkov & Yashunin, 2016]][hnsw]                     |
 |             Lab 04 |  3/31 | Question Answering, Retrieval [[slides][ls04]] [[notebook][n04]] |  |                     |
 |             Lec 05 |  4/5 | Text Generation [[slides][s05]]  | Assignment 1 is due (11pm KST) | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
+|             Lab 05 |  4/7 | Text Generation [[slides][ls05]] [[notebook][n05]] |  |                     |
 
 <!--
 |             09 | 10/6 | Text Generation, Encoder-Decoder [[slides][s09]] | | [[Cho et al., 2014]][seq2seq]             |
@@ -69,11 +70,13 @@
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
 [ls03]: https://drive.google.com/file/d/134m0lrDZYl9FzbgS_GSSnbLboC_HeBcj/view?usp=sharing
 [ls04]: https://drive.google.com/file/d/136kePu9pF8bQr3_Ri7kNY1yDGqP8PWfF/view?usp=sharing
+[ls05]: https://drive.google.com/file/d/1rdyBpcPoSBE_UVCT3RhRDAWa6xmYCUwj/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
 [n03]: https://colab.research.google.com/drive/1UUVTXjdBCzMkT0-BI2tPqNKIglQhx_ad?usp=sharing
 [n04]: https://colab.research.google.com/drive/1WLLcS3q-wnA_StGKQUEU7kiTuPJUyKyF?usp=sharing
+[n05]: https://colab.research.google.com/drive/1dAP9gH8dXzAVTt54JqHtcX940ozPy66X
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1BnZTWAtJHphAle0jkvJkc6zh86GuBxIU
