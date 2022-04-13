@@ -19,6 +19,7 @@
 |             Lec 05 |  4/5 | Text Generation [[slides][s05]]  | Assignment 1 is due (11pm KST) | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
 |             Lab 05 |  4/7 | Text Generation [[slides][ls05]] [[notebook][n05]] |  |                     |
 |             Lec 06 |  4/12 | Transformer [[slides][s06]]  | [Assignment 2][a2] is up |[[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]  |
+|             Lab 06 |  4/14 | Transformer [[slides][ls06]]  |  | |
 
 <!--
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
@@ -67,6 +68,7 @@
 [ls03]: https://drive.google.com/file/d/134m0lrDZYl9FzbgS_GSSnbLboC_HeBcj/view?usp=sharing
 [ls04]: https://drive.google.com/file/d/136kePu9pF8bQr3_Ri7kNY1yDGqP8PWfF/view?usp=sharing
 [ls05]: https://drive.google.com/file/d/1rdyBpcPoSBE_UVCT3RhRDAWa6xmYCUwj/view?usp=sharing
+[ls06]: https://drive.google.com/file/d/139DMvXkHVxik8DS4OlNT8SJ-fUbE36w-/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
