@@ -20,6 +20,8 @@
 |             Lab 05 |  4/7 | Text Generation [[slides][ls05]] [[notebook][n05]] |  |                     |
 |             Lec 06 |  4/12 | Transformer [[slides][s06]]  | [Assignment 2][a2] is up |[[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]  |
 |             Lab 06 |  4/14 | Transformer [[slides][ls06]]  |  | |
+| | 4/19 | No class (midterm exam week) |
+| | 4/21 | No class (midterm exam week) |
 
 <!--
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
