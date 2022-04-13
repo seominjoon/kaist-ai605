@@ -19,7 +19,7 @@
 |             Lec 05 |  4/5 | Text Generation [[slides][s05]]  | Assignment 1 is due (11pm KST) | [[Cho et al., 2014]][seq2seq], [[Bahdanau et al., 2015]][att], [[Luong et al., 2015]][att-luong] |
 |             Lab 05 |  4/7 | Text Generation [[slides][ls05]] [[notebook][n05]] |  |                     |
 |             Lec 06 |  4/12 | Transformer [[slides][s06]]  | [Assignment 2][a2] is up |[[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]  |
-|             Lab 06 |  4/14 | Transformer [[slides][ls06]]  |  | |
+|             Lab 06 |  4/14 | Transformer [[slides][ls06]] [[notebook][n06]]  |  | |
 | | 4/19 | No class (midterm exam week) |
 | | 4/21 | No class (midterm exam week) |
 
@@ -77,6 +77,7 @@
 [n03]: https://colab.research.google.com/drive/1UUVTXjdBCzMkT0-BI2tPqNKIglQhx_ad?usp=sharing
 [n04]: https://colab.research.google.com/drive/1WLLcS3q-wnA_StGKQUEU7kiTuPJUyKyF?usp=sharing
 [n05]: https://colab.research.google.com/drive/1dAP9gH8dXzAVTt54JqHtcX940ozPy66X
+[n06]: https://colab.research.google.com/drive/1A4xcJnWEYXgcZHmMNOv1l8dzOhbppD72
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
