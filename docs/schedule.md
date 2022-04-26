@@ -22,6 +22,22 @@
 |             Lab 06 |  4/14 | Transformer [[slides][ls06]] [[notebook][n06]]  |  | |
 | | 4/19 | No class (midterm exam week) |
 | | 4/21 | No class (midterm exam week) |
+|              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
+|             Lec 07 |  4/28 | Transformer (2)   |  |  |
+| Lab 07 | 5/3  | Transformer   | Assignment 3 is up  | |
+|        | 5/5  | No class (Holiday) |
+| Lec 08 | 5/10 | Language Model   |  |  |
+| Lab 08 | 5/12 | Language Model   |  | |
+| Lec 09 | 5/17 | BERT   |  Assignment 3 is due (11pm KST) |  |
+| Lab 09 | 5/19 | BERT   |  | |
+| Lec 10 | 5/24 | T5   |  Assignment 4 is up |  |
+| Lab 10 | 5/26 | T5  |  | |
+| Lec 11 | 5/31 | GPT-2   |  |  |
+| Lab 11 | 6/2  | GPT-2  |  | |
+| Lec 12 | 6/9  | Recent Trend in NLP   | Assignment 4 and Final Project Report are due (11pm KST) |  |
+| Lab 12 | 6/11 | Final Project Presentations  |  | |
+| | 6/16 | No class (final exam week) |
+| | 6/18 | No class (final exam week) |
 
 <!--
 |             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
