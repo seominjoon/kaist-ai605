@@ -23,7 +23,7 @@
 | | 4/19 | No class (midterm exam week) |
 | | 4/21 | No class (midterm exam week) |
 |              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
-|             Lec 07 |  4/28 | Transformer (2)   |  |  |
+|             Lec 07 |  4/28 | Transformer (2)   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
 | Lab 07 | 5/3  | Transformer   | Assignment 3 is up  | |
 |        | 5/5  | No class (Holiday) |
 | Lec 08 | 5/10 | Language Model   |  |  |
@@ -40,7 +40,6 @@
 | | 6/18 | No class (final exam week) |
 
 <!--
-|             11 |  10/25 | Transformer [[slides][s11]] |                                     | [[Vaswani et al., 2017]][transformer], [Annotated Transformer][annotated]                        |
 |             12 | 10/27 | Transformer (2) [[slides][s12]]|  Assignment 2 is due.  |                         |
 |             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
@@ -157,3 +156,4 @@
 [qa-transfer]: https://arxiv.org/abs/1702.02171
 [bert-slides]: https://nlp.stanford.edu/seminar/details/jdevlin.pdf
 [overlap]: https://arxiv.org/abs/2008.02637
+[relpos]: https://arxiv.org/abs/1803.02155
