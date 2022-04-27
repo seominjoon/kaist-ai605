@@ -23,8 +23,8 @@
 | | 4/19 | No class (midterm exam week) |
 | | 4/21 | No class (midterm exam week) |
 |              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
-|             Lec 07 |  4/28 | Transformer (2)   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
-| Lab 07 | 5/3  | Transformer   | Assignment 3 is up  | |
+|             Lec 07 |  4/28 | Transformer (2) [[slides][s07]]   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
+| Lab 07 | 5/3  | Transformer (2)   | Assignment 3 is up  | |
 |        | 5/5  | No class (Holiday) |
 | Lec 08 | 5/10 | Language Model   |  |  |
 | Lab 08 | 5/12 | Language Model   |  | |
@@ -64,7 +64,7 @@
 [s04]: https://drive.google.com/file/d/1-Dg3Cgdhw_jegVwvso5lvjHE5o0SD7F8/view?usp=sharing
 [s05]: https://drive.google.com/file/d/1-KyVamiPCXsh0vkqfkr1pkJVg018x-xD/view?usp=sharing
 [s06]: https://drive.google.com/file/d/137OmKnHi-x-WixW7v92Y0ZUMgJq04VDC/view?usp=sharing
-[s07]: https://drive.google.com/file/d/12ESkOClHnxURjEc45MDidJK0WdwBXj9z/view?usp=sharing
+[s07]: https://drive.google.com/file/d/1-UPo1cT2u-PRLpbkg2-vlcyRJFrURTo5/view?usp=sharing
 [s08]: https://drive.google.com/file/d/12KnsPNcRwmQezmxnjTLzaz7-bWQt81f0/view?usp=sharing
 [s09]: https://drive.google.com/file/d/1OlGeBWNJnTGB10pfdVOl6dp5E4WTeGYv/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view?usp=sharing
