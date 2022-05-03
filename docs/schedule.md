@@ -24,7 +24,7 @@
 | | 4/21 | No class (midterm exam week) |
 |              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
 |             Lec 07 |  4/28 | Transformer (2) [[slides][s07]]   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
-| Lab 07 | 5/3  | Transformer (2)   | Assignment 3 is up  | |
+| Lab 07 | 5/3  | Transformer (2) [[slides][ls07]]   | [Assignment 3][a3] is up  | |
 |        | 5/5  | No class (Holiday) |
 | Lec 08 | 5/10 | Language Model   |  |  |
 | Lab 08 | 5/12 | Language Model   |  | |
@@ -86,6 +86,7 @@
 [ls04]: https://drive.google.com/file/d/136kePu9pF8bQr3_Ri7kNY1yDGqP8PWfF/view?usp=sharing
 [ls05]: https://drive.google.com/file/d/1rdyBpcPoSBE_UVCT3RhRDAWa6xmYCUwj/view?usp=sharing
 [ls06]: https://drive.google.com/file/d/139DMvXkHVxik8DS4OlNT8SJ-fUbE36w-/view?usp=sharing
+[ls07]: https://drive.google.com/file/d/1-_c85ftn2ZF2-gQ4_4G8PkzVwhrTBFGG/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
@@ -96,8 +97,8 @@
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
-[a3]: https://colab.research.google.com/drive/1xRr_ZZc-HUwR37X_7EmzaK-JHBtJ5WW2?usp=sharing
-[a4]: https://colab.research.google.com/drive/1M4tfQtRh_F0JXajx-5uInfK1lUtg6u9w?usp=sharing
+[a3]: https://colab.research.google.com/drive/1DC8gBsEechnjO3nVZpl39cNcsUc9i8ol?usp=sharing
+[a4]: https://colab.research.google.com/drive/1DC8gBsEechnjO3nVZpl39cNcsUc9i8ol#scrollTo=MTm5eq4NwQZs
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
 
