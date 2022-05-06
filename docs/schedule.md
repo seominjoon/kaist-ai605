@@ -25,8 +25,8 @@
 |              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
 |             Lec 07 |  4/28 | Transformer (2) [[slides][s07]]   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
 | Lab 07 | 5/3  | Transformer (2) [[slides][ls07]]   | [Assignment 3][a3] is up  | |
-|        | 5/5  | No class (Holiday) |
-| Lec 08 | 5/10 | Language Model   |  |  |
+|        | 5/5  | No class (Holiday) | Final Project Proposal is up (on KLMS) | 
+| Lec 08 | 5/10 | Language Model   | Final Project Proposal is due (11pm KST) |  |
 | Lab 08 | 5/12 | Language Model   |  | |
 | Lec 09 | 5/17 | BERT   |  Assignment 3 is due (11pm KST) |  |
 | Lab 09 | 5/19 | BERT   |  | |
