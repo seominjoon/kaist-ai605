@@ -26,7 +26,7 @@
 |             Lec 07 |  4/28 | Transformer (2) [[slides][s07]]   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
 | Lab 07 | 5/3  | Transformer (2) [[slides][ls07]]   | [Assignment 3][a3] is up  | |
 |        | 5/5  | No class (Holiday) | Final Project Proposal is up (on KLMS) | 
-| Lec 08 | 5/10 | Language Model   | Final Project Proposal is due (11pm KST) |  |
+| Lec 08 | 5/10 | Language Model [[slides][s08]]   | Final Project Proposal is due (11pm KST) | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt] |
 | Lab 08 | 5/12 | Language Model   |  | |
 | Lec 09 | 5/17 | BERT   |  Assignment 3 is due (11pm KST) |  |
 | Lab 09 | 5/19 | BERT   |  | |
@@ -40,7 +40,6 @@
 | | 6/18 | No class (final exam week) |
 
 <!--
-|             12 | 10/27 | Transformer (2) [[slides][s12]]|  Assignment 2 is due.  |                         |
 |             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
 |              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
 |||||
@@ -66,7 +65,7 @@
 [s06]: https://drive.google.com/file/d/137OmKnHi-x-WixW7v92Y0ZUMgJq04VDC/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1-UPo1cT2u-PRLpbkg2-vlcyRJFrURTo5/view?usp=sharing
 [s08]: https://drive.google.com/file/d/12KnsPNcRwmQezmxnjTLzaz7-bWQt81f0/view?usp=sharing
-[s09]: https://drive.google.com/file/d/1OlGeBWNJnTGB10pfdVOl6dp5E4WTeGYv/view?usp=sharing
+[s09]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view?usp=sharing
 [s11]: https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view?usp=sharing
 [s12]: https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view?usp=sharing
