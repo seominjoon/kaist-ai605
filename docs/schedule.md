@@ -64,7 +64,7 @@
 [s05]: https://drive.google.com/file/d/1-KyVamiPCXsh0vkqfkr1pkJVg018x-xD/view?usp=sharing
 [s06]: https://drive.google.com/file/d/137OmKnHi-x-WixW7v92Y0ZUMgJq04VDC/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1-UPo1cT2u-PRLpbkg2-vlcyRJFrURTo5/view?usp=sharing
-[s08]: https://drive.google.com/file/d/12KnsPNcRwmQezmxnjTLzaz7-bWQt81f0/view?usp=sharing
+[s08]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
 [s09]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view?usp=sharing
 [s11]: https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view?usp=sharing
