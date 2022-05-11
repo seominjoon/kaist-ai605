@@ -23,7 +23,7 @@ Tue & Thu 09:00-10:15 at [KAIST Seoul Campus Suite 9509](http://naver.me/FeOwr48
 
 - Office: KAIST Seoul Campus Building 9 Room 202
 
-- Office Hours: Request via [Calendly](https://calendly.com/kaist-minjoon/external-15-minute-meeting)
+- Office Hours: Request via [Calendly](https://calendly.com/kaist-minjoon/15-minute-meeting)
 
 ## TAs
 #### Miyoung Ko
