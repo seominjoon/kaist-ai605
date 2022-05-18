@@ -24,15 +24,15 @@
 | | 4/21 | No class (midterm exam week) |
 |              |  4/26 | Class canceled | Assignment 2 is due (11pm KST) |                        |
 |             Lec 07 |  4/28 | Transformer (2) [[slides][s07]]   |  | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm], [[Shaw et al., 2018]][relpos]  |
-| Lab 07 | 5/3  | Transformer (2) [[slides][ls07]]   | [Assignment 3][a3] is up  | |
+| Lab 07 | 5/3  | Transformer (2) [[slides][ls07]] [[notebook][n07]]   | [Assignment 3][a3] is up  | |
 |        | 5/5  | No class (Holiday) | Final Project Proposal is up (on KLMS) | 
-| Lec 08 | 5/10 | Language Model [[slides][s08]]   | Final Project Proposal is due (11pm KST) | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt] |
-| Lab 08 | 5/12 | Language Model   |  | |
-| Lec 09 | 5/17 | BERT   |  Assignment 3 is due (11pm KST) |  |
-| Lab 09 | 5/19 | BERT   |  | |
-| Lec 10 | 5/24 | T5   |  Assignment 4 is up |  |
+| Lec 08 | 5/10 | Language Model [[slides][s08]]    | Final Project Proposal is due (11pm KST) | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt] |
+| Lab 08 | 5/12 | Language Model [[slides][ls08]] [[notebook][n08]]  |  | |
+| Lec 09 | 5/17 | BERT [[slides][s09]]  |  Assignment 3 is due (11pm KST) | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
+| Lab 09 | 5/19 | BERT [[notebook][n09]]  |  |[`transformers` Tutorial][transformers] |
+| Lec 10 | 5/24 | T5   |  Assignment 4 is up | [Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
 | Lab 10 | 5/26 | T5  |  | |
-| Lec 11 | 5/31 | GPT-2   |  |  |
+| Lec 11 | 5/31 | GPT-2   |  | [[Radford et al., 2019]][gpt-2] |
 | Lab 11 | 6/2  | GPT-2  |  | |
 | Lec 12 | 6/9  | Recent Trend in NLP   | Assignment 4 and Final Project Report are due (11pm KST) |  |
 | Lab 12 | 6/11 | Final Project Presentations  |  | |
@@ -40,21 +40,7 @@
 | | 6/18 | No class (final exam week) |
 
 <!--
-|             13 | 11/1 | Language Model, Regularization, Decoding [[slides][s13]] |   | [[Ioffe & Szgedy 2015]][batchnorm], [[Ba et al., 2016]][layernorm]                         |
-|              | 11/3 | Pre-BERT Paper Discussion [[instructions][d1]] |  |                             |
-|||||
-|             14 |  11/8 | Transfer Learning, Pretrained Language Model [[slides][s14]]  | [Assignment 3][a3] is up.                     | [[Min et al., 2017]][qa-transfer], [[Peters et al., 2018]][elmo], [[Howard & Ruder, 2018]][ulmfit], [[Radford et al., 2018]][gpt]                                          |
-|              | 11/10 | No lecture (EMNLP)  |   |                                         |
-|             15 | 11/15 | BERT [[slides][s15]] |                                     | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
-|             16 | 11/17 | Hugging Face and Final Project Tutorial [[slides][s16]] |  | [`transformers` Tutorial][transformers] |                      
-|              | 11/22 | No lecture |Assignment 3 is due, [Assignment 4][a4] is up.  | |
-|             17 | 11/24 |Pretraining for Generation [[slides][s17]] |  |[[Radford et al., 2019]][gpt-2], [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]  |
 |             18 | 11/29 | Scaling Laws, In-Context Learning [[slides][s18]]|                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
-|              |  12/1 | Post-BERT Paper Discussion [[instructions][d2]]  |  | |
-|              |  12/6 | Final Project Presentation                      |  Assignment 4 is due. |           |
-|             |  12/8 | Final Project Presentation                      |                                   |                         |
-|              |  12/13 | No lecture (finals week)                      |                                    |                         |
-|              |  12/15 | No lecture (finals week)                      |  Final Project Report is due                                  |                         |
 -->
 
 [s01]: https://drive.google.com/file/d/11OKl3ftd0qOmKy6RAiBCqpmECnj1WHZm/view?usp=sharing
@@ -65,19 +51,7 @@
 [s06]: https://drive.google.com/file/d/137OmKnHi-x-WixW7v92Y0ZUMgJq04VDC/view?usp=sharing
 [s07]: https://drive.google.com/file/d/1-UPo1cT2u-PRLpbkg2-vlcyRJFrURTo5/view?usp=sharing
 [s08]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
-[s09]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
-[s10]: https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view?usp=sharing
-[s11]: https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view?usp=sharing
-[s12]: https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view?usp=sharing
-[s13]: https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view?usp=sharing
-[s14]: https://drive.google.com/file/d/1079QeGAsL8lUMJuL-UE8UrJBhTJIwriu/view?usp=sharing
-[s15]: https://drive.google.com/file/d/10B5wdxaQFvCh21O0Gi9hDn8c5189jcPH/view?usp=sharing
-[s16]: https://drive.google.com/file/d/10Ljc-WoOyvb8D1ZGtzrEi6OaYiFYBg-w/view?usp=sharing
-[s17]: https://drive.google.com/file/d/12LIFz0bPcs46UMXNKZWMY8lo9V1sCJo6/view?usp=sharing
-[s18]: https://drive.google.com/file/d/1-DVP3fmGiW2SbCryQuMJV_1DL4QOlIEy/view?usp=sharing
-[s19]: https://drive.google.com/file/d/1lj58BULPV0SZUZBXkPdOYAIK_sL3vi0i/view?usp=sharing
-[s20]: https://drive.google.com/file/d/17SUpIjpDX_if3rW3YZUGmUs_jk2__xRW/view?usp=sharing
-[s21]: https://drive.google.com/file/d/1CdOeMFveW0kxMc5UgOt9Qc3tX-9pkFxE/view?usp=sharing
+[s09]: https://drive.google.com/file/d/1-cMyuxn2-vyrbO6znO17IqgpiOI9vMHw/view?usp=sharing
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
@@ -86,6 +60,7 @@
 [ls05]: https://drive.google.com/file/d/1rdyBpcPoSBE_UVCT3RhRDAWa6xmYCUwj/view?usp=sharing
 [ls06]: https://drive.google.com/file/d/139DMvXkHVxik8DS4OlNT8SJ-fUbE36w-/view?usp=sharing
 [ls07]: https://drive.google.com/file/d/1-_c85ftn2ZF2-gQ4_4G8PkzVwhrTBFGG/view?usp=sharing
+[ls08]: https://drive.google.com/file/d/13MZzX-uIojLRXnEM7zz0jlvLhfXKTjTT/view?usp=sharing
 
 [n01]: https://colab.research.google.com/drive/1ZPgqQGX5BoMdx5ueRl5h2u2pTHxKK7Ws?usp=sharing
 [n02]: https://colab.research.google.com/drive/1SjOeBf5KGVjX1aYQzwWU0tzS1elCK36G?usp=sharing
@@ -93,6 +68,9 @@
 [n04]: https://colab.research.google.com/drive/1WLLcS3q-wnA_StGKQUEU7kiTuPJUyKyF?usp=sharing
 [n05]: https://colab.research.google.com/drive/1dAP9gH8dXzAVTt54JqHtcX940ozPy66X
 [n06]: https://colab.research.google.com/drive/1A4xcJnWEYXgcZHmMNOv1l8dzOhbppD72
+[n07]: https://colab.research.google.com/drive/13a2ocrspvosQcvmaQw0TPHsugsFvOIh_?usp=sharing
+[n08]: https://colab.research.google.com/drive/1mLjXg63Mpi0d6eGUhwCJRz-AL_az40J-?usp=sharing
+[n09]: https://colab.research.google.com/drive/1roXllW5WdyPtlCd5o_V3FbQASQWE4Ep_?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
