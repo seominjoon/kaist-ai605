@@ -30,7 +30,7 @@
 | Lab 08 | 5/12 | Language Model [[slides][ls08]] [[notebook][n08]]  |  | |
 | Lec 09 | 5/17 | BERT [[slides][s09]]  |  Assignment 3 is due (11pm KST) | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
 | Lab 09 | 5/19 | BERT [[notebook][n09]]  |  |[`transformers` Tutorial][transformers] |
-| Lec 10 | 5/24 | T5   |  Assignment 4 is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
+| Lec 10 | 5/24 | T5 [[slides][s10]]   |  Assignment 4 is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
 | Lab 10 | 5/26 | T5  |  | |
 | Lec 11 | 5/31 | GPT-2   |  | [[Radford et al., 2019]][gpt-2] |
 | Lab 11 | 6/2  | GPT-2  |  | |
@@ -52,6 +52,7 @@
 [s07]: https://drive.google.com/file/d/1-UPo1cT2u-PRLpbkg2-vlcyRJFrURTo5/view?usp=sharing
 [s08]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
 [s09]: https://drive.google.com/file/d/1-cMyuxn2-vyrbO6znO17IqgpiOI9vMHw/view?usp=sharing
+[s10]: https://drive.google.com/file/d/1-d3Jso5nDL1PFtCtn7SUgIePyapzjsBO/view?usp=sharing
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
