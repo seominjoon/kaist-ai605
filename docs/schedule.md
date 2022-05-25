@@ -30,7 +30,7 @@
 | Lab 08 | 5/12 | Language Model [[slides][ls08]] [[notebook][n08]]  |  | |
 | Lec 09 | 5/17 | BERT [[slides][s09]]  |  Assignment 3 is due (11pm KST) | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
 | Lab 09 | 5/19 | BERT [[notebook][n09]]  |  |[`transformers` Tutorial][transformers] |
-| Lec 10 | 5/24 | T5 [[slides][s10]]   |  Assignment 4 is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
+| Lec 10 | 5/24 | T5 [[slides][s10]]   |  [Assignment 4][a4] is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
 | Lab 10 | 5/26 | T5  |  | |
 | Lec 11 | 5/31 | GPT-2   |  | [[Radford et al., 2019]][gpt-2] |
 | Lab 11 | 6/2  | GPT-2  |  | |
@@ -76,7 +76,7 @@
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
 [a3]: https://colab.research.google.com/drive/1DC8gBsEechnjO3nVZpl39cNcsUc9i8ol?usp=sharing
-[a4]: https://colab.research.google.com/drive/1DC8gBsEechnjO3nVZpl39cNcsUc9i8ol#scrollTo=MTm5eq4NwQZs
+[a4]: https://colab.research.google.com/drive/1FRtpwqcBDO0UzpRujmj7QRmfSAac9I1s?usp=sharing
 [final]: https://docs.google.com/document/d/17F5_dcE7U4akdIa2H0G0hYo_RHvnBsZSPF1XVRYeZpQ/edit?usp=sharing
 [final-survey]: https://forms.gle/sUb6Tok21e19rZC76
 
