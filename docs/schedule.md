@@ -32,12 +32,12 @@
 | Lab 09 | 5/19 | BERT [[notebook][n09]]  |  |[`transformers` Tutorial][transformers] |
 | Lec 10 | 5/24 | T5 [[slides][s10]]   |  [Assignment 4][a4] is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
 | Lab 10 | 5/26 | T5  |  | |
-| Lec 11 | 5/31 | GPT-2   |  | [[Radford et al., 2019]][gpt-2] |
-| Lab 11 | 6/2  | GPT-2  |  | |
-| Lec 12 | 6/9  | Recent Trend in NLP   | Assignment 4 and Final Project Report are due (11pm KST) |  |
-| Lab 12 | 6/11 | Final Project Presentations  |  | |
+| Lec 11 | 5/31 | GPT-2, Few-Shot Learning [[slides][s11]]   |  | [[Radford et al., 2019]][gpt-2], [Few-Shot Learning Tutorial][few-shot-tutorial] |
+| Lab 11 | 6/2  | GPT-2, Few-Shot Learning  |  | |
+|        | 6/7  | Class canceled   | Assignment 4 and Final Project Report are due (11pm KST) |  |
+| Lec 12 | 6/9 | Recent Trend in NLP, Final Project Presentations  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
+| | 6/14 | No class (final exam week) |
 | | 6/16 | No class (final exam week) |
-| | 6/18 | No class (final exam week) |
 
 <!--
 |             18 | 11/29 | Scaling Laws, In-Context Learning [[slides][s18]]|                                   |[[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
@@ -53,6 +53,7 @@
 [s08]: https://drive.google.com/file/d/13D7kJU0EAJ9BqjOQ0E_8W07YyHQKjY-T/view?usp=sharing
 [s09]: https://drive.google.com/file/d/1-cMyuxn2-vyrbO6znO17IqgpiOI9vMHw/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1-d3Jso5nDL1PFtCtn7SUgIePyapzjsBO/view?usp=sharing
+[s11]: https://drive.google.com/file/d/13OVRP9QK93ljhtEp46RVBrjbsucmoltJ/view?usp=sharing
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
@@ -136,3 +137,4 @@
 [bert-slides]: https://nlp.stanford.edu/seminar/details/jdevlin.pdf
 [overlap]: https://arxiv.org/abs/2008.02637
 [relpos]: https://arxiv.org/abs/1803.02155
+[few-shot-tutorial]: https://github.com/allenai/acl2022-zerofewshot-tutorial
