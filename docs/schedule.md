@@ -31,7 +31,7 @@
 | Lec 09 | 5/17 | BERT [[slides][s09]]  |  Assignment 3 is due (11pm KST) | [[Devlin et al., 2018]][bert], [[Yang et al., 2019]][xlnet], [[Liu et al., 2019]][roberta], [BERT Slides][bert-slides] |
 | Lab 09 | 5/19 | BERT [[notebook][n09]]  |  |[`transformers` Tutorial][transformers] |
 | Lec 10 | 5/24 | T5 [[slides][s10]]   |  [Assignment 4][a4] is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
-| Lab 10 | 5/26 | T5  |  | |
+| Lab 10 | 5/26 | T5 [[notebook][n10]] |  | |
 | Lec 11 | 5/31 | GPT-2, Few-Shot Learning [[slides][s11]]   |  | [[Radford et al., 2019]][gpt-2], [Few-Shot Learning Tutorial][few-shot-tutorial] |
 | Lab 11 | 6/2  | GPT-2, Few-Shot Learning  |  | |
 |        | 6/7  | Class canceled   | Assignment 4 and Final Project Report are due (11pm KST) |  |
@@ -73,6 +73,7 @@
 [n07]: https://colab.research.google.com/drive/13a2ocrspvosQcvmaQw0TPHsugsFvOIh_?usp=sharing
 [n08]: https://colab.research.google.com/drive/1mLjXg63Mpi0d6eGUhwCJRz-AL_az40J-?usp=sharing
 [n09]: https://colab.research.google.com/drive/1roXllW5WdyPtlCd5o_V3FbQASQWE4Ep_?usp=sharing
+[n10]: https://colab.research.google.com/drive/1AQalDFT5pX0Z_PVgCL34Ra3qcOgbDGZc?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
