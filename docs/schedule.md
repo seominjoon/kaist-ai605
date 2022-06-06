@@ -35,7 +35,7 @@
 | Lec 11 | 5/31 | GPT-2, Few-Shot Learning [[slides][s11]]   |  | [[Radford et al., 2019]][gpt-2], [Few-Shot Learning Tutorial][few-shot-tutorial] |
 | Lab 11 | 6/2  | GPT-2, Few-Shot Learning  |  | |
 |        | 6/7  | Class canceled   | Assignment 4 and Final Project Report are due (11pm KST) |  |
-| Lec 12 | 6/9 | Recent Trend in NLP, Final Project Presentations  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
+| Lec 12 | 6/9 | Recent Trend in NLP, Final Project Presentations [[slides][s12]]  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 | | 6/14 | No class (final exam week) |
 | | 6/16 | No class (final exam week) |
 
@@ -54,6 +54,7 @@
 [s09]: https://drive.google.com/file/d/1-cMyuxn2-vyrbO6znO17IqgpiOI9vMHw/view?usp=sharing
 [s10]: https://drive.google.com/file/d/1-d3Jso5nDL1PFtCtn7SUgIePyapzjsBO/view?usp=sharing
 [s11]: https://drive.google.com/file/d/13OVRP9QK93ljhtEp46RVBrjbsucmoltJ/view?usp=sharing
+[s12]: https://drive.google.com/file/d/1-iD7AfxTSMD0Rqomj3eVod3vNKiO3mh-/view?usp=sharing
 
 [ls01]: https://drive.google.com/file/d/1--GKA5XfAVygQO8JVzWjrgi830mdpji3/view?usp=sharing
 [ls02]: https://drive.google.com/file/d/12jaMLT0TXT_sdvz2nM9JgCqTH8xzZziv/view?usp=sharing
