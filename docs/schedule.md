@@ -33,7 +33,7 @@
 | Lec 10 | 5/24 | T5 [[slides][s10]]   |  [Assignment 4][a4] is up | [[Lewis et al., 2020a]][bart], [[Raffel et al., 2020]][t5], [[Roberts et al., 2020]][cbqa], [[Lewis et al., 2020b]][overlap]   |
 | Lab 10 | 5/26 | T5 [[notebook][n10]] |  | |
 | Lec 11 | 5/31 | GPT-2, Few-Shot Learning [[slides][s11]]   |  | [[Radford et al., 2019]][gpt-2], [Few-Shot Learning Tutorial][few-shot-tutorial] |
-| Lab 11 | 6/2  | GPT-2, Few-Shot Learning  |  | |
+| Lab 11 | 6/2  | GPT-2, Few-Shot Learning [[notebook][s12]]  |  | |
 |        | 6/7  | Class canceled   | Assignment 4 and Final Project Report are due (11pm KST) |  |
 | Lec 12 | 6/9 | Recent Trend in NLP, Final Project Presentations [[slides][s12]]  |  | [[Kaplan et al., 2020]][scaling], [[Brown et al., 2020]][gpt-3], [[Ramesh et al., 2021]][dall-e] |
 | | 6/14 | No class (final exam week) |
@@ -75,6 +75,7 @@
 [n08]: https://colab.research.google.com/drive/1mLjXg63Mpi0d6eGUhwCJRz-AL_az40J-?usp=sharing
 [n09]: https://colab.research.google.com/drive/1roXllW5WdyPtlCd5o_V3FbQASQWE4Ep_?usp=sharing
 [n10]: https://colab.research.google.com/drive/1AQalDFT5pX0Z_PVgCL34Ra3qcOgbDGZc?usp=sharing
+[n11]: https://colab.research.google.com/drive/1yUTo0B03HQkcOwC0j2dQ5u8kDYi5yPdw?usp=sharing
 
 [a1]: https://colab.research.google.com/drive/1czIUOqIG9vF6MUsY7zcAO0Ne03Wk2KwQ#scrollTo=mbGnNWI1lRy_
 [a2]: https://colab.research.google.com/drive/1_zwhc3QPoTY0yKXbXSKN90ZnAqKjWdOM#scrollTo=Pr94hZkt-dc9
